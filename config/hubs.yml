@@ -1,0 +1,6 @@
+hubs:
+  hub1:
+    location: Newcastle
+    timezone: +1
+    lang: en
+    hashtag: #openlab_ncl

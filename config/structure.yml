@@ -1,0 +1,48 @@
+course:
+  name: Test Course 1
+  hashtag: #catc2017
+  starts: 1/1/2017
+  
+  classes:
+    class1:
+      host: hub1
+      released: 2/3/2017 14:40
+      pre: precontent.md
+      video: h4uffyW
+      livestream: ER34tr
+      post: postcontent.md
+        
+    class2:
+      host: hub1
+      released: 2/3/2017 14:40
+      pre: precontent.md
+      video: h4uffyW
+      livestream: ER34tr
+      post: postcontent.md
+    
+    class3:
+      host: hub1
+      released: 2/3/2017 14:40
+      pre: precontent.md
+      video: h4uffyW
+      livestream: ER34tr
+      post: postcontent.md
+      
+    class4:
+      host: hub1
+      released: 2/3/2017 14:40
+      pre: precontent.md
+      video: h4uffyW
+      livestream: ER34tr
+      post: postcontent.md
+    
+    class5:
+      host: hub1
+      released: 2/3/2017 14:40
+      pre: precontent.md
+      video: h4uffyW
+      livestream: ER34tr
+      post: postcontent.md
+    
+    class6:
+      pre: precontent.md      
