@@ -1,7 +1,9 @@
 course:
   name: Test Course 1
-  hashtag: #catc2017
+  hashtags: 
+    - catc2017
   starts: 1/1/2017
+  account: @tomb
   
   classes:
     class1:
