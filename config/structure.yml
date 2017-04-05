@@ -6,60 +6,63 @@ classes:
   -
     name: Week 1
     description: We talk about things in photography
-    schedule:
-      -
-        release_at: "2017-04-05T10:57:37+01:00"
-        leadhub: true
-        hub_id: "ams"
-      -
-        release_at: "2017-04-05T11:57:37Z"
-        hub_id: "ncl"
-      -
-        release_at: "2017-04-05T22:57:37-07:00"
-        hub_id: "irvine"
     content:
       -
         title: "Introduction"
         content_type: "submission"
-        url: "https://testclass.connectedacdemy.io/content/class1/intro.md"
+        url: "https://testclass.connectedacademy.io/content/class1/intro.md"
         optional: false
       -
         title: "Extra Reading"        
         content_type: "pre"
-        url: "https://testclass.connectedacdemy.io/content/class1/extra-pre-reading.md"
+        url: "https://testclass.connectedacademy.io/content/class1/extra-pre-reading.md"
         optional: true
       -
         title: "Live Class Discussion"        
         content_type: "class"
         video: "bnKFaAS30X8"
-        transcript: "https://testclass.connectedacdemy.io/content/class1/bnKFaAS30X8.srt"
+        transcript: "https://testclass.connectedacademy.io/content/class1/bnKFaAS30X8.srt"
         optional: false
+        schedule:
+          -
+            release_at: "2017-04-05T10:57:37+01:00"
+            leadhub: true
+            hub_id: "ams"
+          -
+            release_at: "2017-04-05T11:57:37Z"
+            hub_id: "ncl"
+          -
+            release_at: "2017-04-05T22:57:37-07:00"
+            hub_id: "irvine"
       -
         title: "What Next"        
         content_type: "postclass"
         video: "34dduir"
-        transcript: "https://testclass.connectedacdemy.io/content/class1/34dduir.srt"
+        transcript: "https://testclass.connectedacademy.io/content/class1/34dduir.srt"
         optional: false
       -
         title: "Live Webinar"        
         content_type: "webinar"
         video: "UdmHHpAsMVw"
-        transcript: "https://testclass.connectedacdemy.io/content/class1/UdmHHpAsMVw.srt"
+        transcript: "https://testclass.connectedacademy.io/content/class1/UdmHHpAsMVw.srt"
         optional: false
+        schedule:
+          -
+            release_at: "2017-04-05T22:57:37-07:00"
       -
         title: "Deep Dive"        
         content_type: "postwebinar"
-        url: "https://testclass.connectedacdemy.io/content/class1/deepdive.md"
+        url: "https://testclass.connectedacademy.io/content/class1/deepdive.md"
         optional: false
       -
         title: "Analysis"        
         content_type: "postwebinar"
         video: "28OZoZT_6rk"
-        transcript: "https://testclass.connectedacdemy.io/content/class1/28OZoZT_6rk.srt"
+        transcript: "https://testclass.connectedacademy.io/content/class1/28OZoZT_6rk.srt"
         optional: true
       -
         title: "Out-takes"        
         content_type: "postwebinar"
         video: "l0YH6cWxYwk"
-        transcript: "https://testclass.connectedacdemy.io/content/class1/l0YH6cWxYwk.srt"
+        transcript: "https://testclass.connectedacademy.io/content/class1/l0YH6cWxYwk.srt"
         optional: true
