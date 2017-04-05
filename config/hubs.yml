@@ -1,6 +1,24 @@
-hubs:
-  hub1:
-    location: Newcastle
-    timezone: +1
-    lang: en
-    hashtag: #openlab_ncl
+-
+  id: "ams"
+  name: "Amsterdam"
+  timezone: "+01:00"
+  service: "twitter"
+  account: "@tomb"
+  hashtag: "#ams1"
+  lang: "en"
+-
+  id: "ncl"
+  name: "Newcastle"
+  timezone: "+00:00"
+  service: "twitter"
+  account: "@davec"
+  hashtag: "#openlab_ncl"
+  lang: "en"
+-
+  id: "irvine"
+  name: "UC Irvine"
+  timezone: "-07:00"
+  service: "twitter"
+  account: "@ucirvine"
+  hashtag: "#uc_irvine"
+  lang: "en"
