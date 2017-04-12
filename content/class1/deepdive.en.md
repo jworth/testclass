@@ -6,6 +6,10 @@
 
 ## Umor modis cantu
 
+![test 2](img/img2.jpg)
+
+![test online](http://lorempixel.com/640/480/sports/)
+
 Lorem markdownum, mersis sunt armis similis. Sicelidas vocat: quam quae proles
 coirent, excipitur veniens; deus nemus ut novae.
 
