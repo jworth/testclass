@@ -1,9 +1,11 @@
 name: "Test Class 1"
-hashtag: "#testclass1"
+hashtag: "#test/class1"
 starts: "2017-09-01T22:47:31-07:00"
 ends: "2017-09-20T22:47:31-07:00"
 accounts: 
   - tombartindale
+langs:
+  - en
 classes:
   -
     name: Week 1
@@ -12,18 +14,18 @@ classes:
       -
         title: "Introduction"
         content_type: "submission"
-        url: "https://testclass.connectedacademy.io/content/class1/intro.md"
+        url: "/class1/intro.md"
         optional: false
       -
         title: "Extra Reading"        
         content_type: "pre"
-        url: "https://testclass.connectedacademy.io/content/class1/extra-pre-reading.md"
+        url: "/class1/extra-pre-reading.md"
         optional: true
       -
         title: "Live Class Discussion"        
         content_type: "class"
         video: "bnKFaAS30X8"
-        transcript: "https://testclass.connectedacademy.io/content/class1/bnKFaAS30X8.srt"
+        transcript: "/class1/bnKFaAS30X8.srt"
         optional: false
         schedule:
           -
@@ -40,13 +42,13 @@ classes:
         title: "What Next"        
         content_type: "postclass"
         video: "34dduir"
-        transcript: "https://testclass.connectedacademy.io/content/class1/34dduir.srt"
+        transcript: "/class1/34dduir.srt"
         optional: false
       -
         title: "Live Webinar"        
         content_type: "webinar"
         video: "UdmHHpAsMVw"
-        transcript: "https://testclass.connectedacademy.io/content/class1/UdmHHpAsMVw.srt"
+        transcript: "/class1/UdmHHpAsMVw.srt"
         optional: false
         schedule:
           -
@@ -54,17 +56,17 @@ classes:
       -
         title: "Deep Dive"        
         content_type: "postwebinar"
-        url: "https://testclass.connectedacademy.io/content/class1/deepdive.md"
+        url: "/class1/deepdive.md"
         optional: false
       -
         title: "Analysis"        
         content_type: "postwebinar"
         video: "28OZoZT_6rk"
-        transcript: "https://testclass.connectedacademy.io/content/class1/28OZoZT_6rk.srt"
+        transcript: "/class1/28OZoZT_6rk.srt"
         optional: true
       -
         title: "Out-takes"        
         content_type: "postwebinar"
         video: "l0YH6cWxYwk"
-        transcript: "https://testclass.connectedacademy.io/content/class1/l0YH6cWxYwk.srt"
+        transcript: "/class1/l0YH6cWxYwk.srt"
         optional: true

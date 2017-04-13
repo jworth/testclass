@@ -20,6 +20,8 @@ actum.
 
 ![test 1](img/img1.jpg)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/akoJ2zBwX1o" frameborder="0" allowfullscreen></iframe>
+@[youtube](akoJ2zBwX1o)
 
 # SUBMIT YOUR 4C IMAGE HERE
+
+&[submit](4courners)
