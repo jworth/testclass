@@ -1,8 +1,8 @@
 # Graiumque confiteorque carmen tutam vetustas ab membra
 
-[Page 2](deepdive2.en.md)
+[Page 2](deepdive2.md)
 
-[Page 3](deepdive3.en.md)
+[Page 3](deepdive3.md)
 
 ## Umor modis cantu
 
