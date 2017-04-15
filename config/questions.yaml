@@ -1,0 +1,47 @@
+release:
+  "Lorem markdownum aequora, dei cortex, in urbis malorum ignotos ad Neptune mihi:
+  induere en quoque vultus, nunc. Referam serpens, *et feras*, Latiis,
+  [edidit](http://de.com/socer) sic **induit senes genitore**. Et miserarum siqua;
+  admovit abest fugit *pertimuit superum*, Aetnen subiectis raucis gravi harenosae
+  **Aeginae** capellas. Orat et illos cernitis corripiunt sanguine Parnasi avidos
+  velamina terrent tenet Eumelique vulneris, quod. Illam dicere in haurire
+  reliquit corpus, et prosunt Danae saepe sexangula.
+
+  1. Sensit deus repetitaque spiro annisque victos radice
+  2. Carmina fert virum cursus monimenta illum Iovisque
+  3. Auxilio perenni temptatae flumine probavit Echion enim
+  4. Prosiluit alis falleret
+  5. Notae placitas ministeriis retiaque
+  6. Patet et pariter cerva heu dolores limite"
+
+registration:
+  -
+    id: 1
+    text: How often do you watch or listen to any kind of video or podcast online? (Never, once a year, once a month, every week, everyday?)
+    response_type: scale
+  -
+    id: 2
+    text: Prior to this course, have you ever engaged in live online discussion around an event (radio show, tv program, sports event or webinar)? (Never, once a year, once a month, every week, everyday?)
+    response_type: scale
+  - 
+    id: 3
+    text: How many online courses have you taken? (0, 1-5, 6-10, more than 10)
+    response_type: scale
+  -
+    id: 4
+    text: What do you think about online courses? Do you prefer them over traditional lectures?
+    response_type: scale
+  - 
+    id: 5
+    text: When learning, do you prefer a lecture setting where you get delivered information by an expert or do you prefer it to be more discussion-based ?
+    response_type: scale
+during:
+  -
+    id: 6
+    text: How long did you take to listen to this class?
+    response_type: scale
+post:
+  -
+    id: 7
+    text: How long did you take to listen to this class?
+    response_type: scale
