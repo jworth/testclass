@@ -1,6 +1,8 @@
 https://testclass.connectedacademy.io/THIS IS A TEST
 # Nato condidit petit quam mortua ab illo
 
+![img1.jpg]({{site.baseurl}}/course/content/media/img1.jpg)
+
 ## Se enim
 
 Lorem markdownum addita, avia! Excutiunt dixit spectacula omnibus litusque
