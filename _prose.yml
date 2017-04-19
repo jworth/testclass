@@ -1,7 +1,7 @@
 prose:
   siteurl: https://testclass.connectedacademy.io
   rooturl: course
-  media: 'content/media'
+  media: 'course/content/media'
   ignore:
     - CNAME
     - _prose.yml
