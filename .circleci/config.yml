@@ -13,4 +13,4 @@ jobs:
       - run: npm install
       - run: npm run generate
       - add_ssh_keys
-      - run: git commit -am"AUTOBUILD" & git checkout gh-pages & git merge master & git push origin gh-pages
+      - run: git commit -am"AUTOBUILD" & git fetch & git checkout origin/gh-pages & git merge master & git push origin gh-pages
