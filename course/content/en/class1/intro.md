@@ -1,4 +1,3 @@
-https://testclass.connectedacademy.io/THIS IS A TEST
 # Nato condidit petit quam mortua ab illo
 
 ![img1.jpg](https://testclass.connectedacademy.io/course/content/media/img1.jpg)
