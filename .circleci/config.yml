@@ -18,6 +18,6 @@ jobs:
       - run: git checkout -b staging
       - run: git add links.jsonp
       - run: git commit -am"[skip CI] AUTOBUILD"
-      - run: git checkout gh-pages
+      - run: git checkout -b gh-pages
       - run: git rebase -Xtheirs staging
-      - run: git push -f origin gh-pages
+      - run: git push -u -f origin gh-pages
