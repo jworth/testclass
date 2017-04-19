@@ -6,7 +6,7 @@
 
 ## Umor modis cantu
 
-![test 2](img/img2.jpg)
+![test 2](../media/img2.jpg)
 
 ![test online](http://lorempixel.com/640/480/sports/)
 
