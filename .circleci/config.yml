@@ -15,8 +15,9 @@ jobs:
       - add_ssh_keys
       - run: git config --global user.name "CircleCI"
       - run: git config --global user.email "info@connectedacademy.io"
+      - run: git checkout gh-pages
       - run: git commit -am"[skip CI] AUTOBUILD"
-      # - run: git checkout gh-pages
+      # - run: git 
       - run: git push origin HEAD:gh-pages
       # - run: git merge master
       # - run: git push origin HEAD:gh-pages
