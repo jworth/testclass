@@ -40,6 +40,9 @@ during:
     id: 6
     text: How long did you take to listen to this class?
     response_type: scale
+  - 
+    id: 8
+    text: When learning, do you prefer a lecture setting where you get delivered information by an expert
 post:
   -
     id: 7
