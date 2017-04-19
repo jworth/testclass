@@ -1,5 +1,6 @@
 let fs = require('fs');
 let yaml = require('js-yaml');
+var walk = require('klaw-sync')
 
 console.log("Starting Build");
 try
@@ -14,7 +15,6 @@ try
     raw = fs.readFileSync(__dirname + '/../course/config/hubs.yaml');
     spec = yaml.safeLoad(raw);
     console.log('✔ hubs.yaml');
-    
 
     // load questions
     //langs:
@@ -24,6 +24,16 @@ try
         raw = fs.readFileSync(__dirname + '/../course/config/questions/' + f);
         spec = yaml.safeLoad(raw);
         console.log('✔ questions/' + f);    
+    }
+
+    let domain = 'https://' + fs.readFileSync('CNAME');
+
+    // Find / Replace assets in the content:
+    let paths = walk(__dirname + '/../course/content/',{nodir: true, ignore: 'media'});
+    for (let p of paths)
+    {
+        let contents = fs.readFileSync(p.path).toString();
+        contents = contents.replace(/{{site\.baseurl}}/g,domain);
     }
 
     console.log("Finished Build");
