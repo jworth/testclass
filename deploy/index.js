@@ -1,6 +1,9 @@
 let fs = require('fs');
 let yaml = require('js-yaml');
-var walk = require('klaw-sync')
+let walk = require('klaw-sync')
+let path = require('path');
+let frontmatter = require('front-matter');
+let _ = require('lodash');
 
 console.log("Starting Build");
 try
@@ -40,6 +43,35 @@ try
         contents = contents.replace(/{{site\.baseurl}}/g,domain);
         fs.writeFileSync(p.path, contents);
     }
+
+    console.log("Generate Page List")
+    let links = [];
+    for (let p of paths)
+    {
+        if (path.extname(p.path) == '.md')
+        {
+            // console.log(p);
+            let pa = path.dirname(p.path).split(path.sep)
+            let fm = {
+                attributes:{
+                    title: pa.pop() + "-" + pa.pop() + "-" + path.basename(p.path)
+                }
+            };
+            try
+            {
+                fm = frontmatter(fs.readFileSync(p.path));
+            }
+            catch (e)
+            {
+                
+            }
+            links.push({
+                text: fm.attributes.title,
+                href: p.path.replace(__dirname,'')
+            });
+        }
+    }
+    fs.writeFileSync('links.jsonp',"----\n----\ncallback(" + JSON.stringify(links) + ")");
 
     console.log("Finished Build");
 }
