@@ -17,7 +17,8 @@ jobs:
       - run: git config --global user.email "info@connectedacademy.io"
       - run: git checkout -b staging
       - run: git commit -am"[skip CI] AUTOBUILD"
-      - run: git merge -s ours origin/gh-pages
+      - run: git checkout gh-pages
+      - run: git rebase -Xtheirs staging
       # - run: git checkout gh-pages
       # - run: git checkout gh-pages
       # - run: git merge -X theirs master
