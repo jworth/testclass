@@ -6,6 +6,9 @@ Lorem markdownum quidem classe fraudem carinae redeat Aetna Orionis det removit
 carmina, protinus ligno transierant talia. Tanto ipse: nunc lata, maternas
 madentis campis simillimus propositumque cremabo simul, bis colunt.
 
+![online-learning.png]({{site.baseurl}}/content/en/class1/online-learning.png)
+
+
 ## Ab Aurora aquis
 
 Tellus erat. Pariter orat: tum et caper fidemque induta traiectum Paris longum;
