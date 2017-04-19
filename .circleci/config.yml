@@ -15,12 +15,14 @@ jobs:
       - add_ssh_keys
       - run: git config --global user.name "CircleCI"
       - run: git config --global user.email "info@connectedacademy.io"
-      - run: git checkout gh-pages
+      - run: git checkout -b staging
       - run: git commit -am"[skip CI] AUTOBUILD"
+      - run: git merge -s own gh-pages
       # - run: git checkout gh-pages
-      # - run: git merge --no-ff -X theirs master
+      # - run: git checkout gh-pages
+      # - run: git merge -X theirs master
       # - run: git reset --hard master
-      - run: git push origin gh-pages -f
+      - run: git push origin gh-pages
       # - run: git checkout gh-pages
       # - run: git pull
       # - run: git push origin HEAD:gh-pages
