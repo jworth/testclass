@@ -18,6 +18,7 @@ jobs:
       - run: git checkout -b staging
       - run: git commit -am"[skip CI] AUTOBUILD"
       - run: git checkout gh-pages
+      - run: git pull
       - run: git rebase -Xtheirs staging
       # - run: git checkout gh-pages
       # - run: git checkout gh-pages
