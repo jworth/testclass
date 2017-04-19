@@ -1,4 +1,5 @@
 prose:
+  siteurl: https://testclass.connectedacademy.io
   media: 'content/media'
   ignore:
     - CNAME
