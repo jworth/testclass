@@ -68,7 +68,7 @@ try
 
             links.push({
                 text: fm.attributes.title,
-                href: p.path.replace(path.resolve(__dirname,'..'),'')
+                href:path.basename(p.path)
             });
         }
     }
