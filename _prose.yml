@@ -2,7 +2,3 @@ prose:
   siteurl: https://testclass.connectedacademy.io
   rooturl: course
   media: 'course/content/media'
-  ignore:
-    - CNAME
-    - _prose.yml
-    - README.md

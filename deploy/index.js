@@ -6,6 +6,8 @@ console.log("Starting Build");
 try
 {
 
+    console.log("Checking Spec")
+    
     // load spec
     let raw = fs.readFileSync(__dirname + '/../course/config/spec.yaml');
     let spec = yaml.safeLoad(raw);
@@ -28,12 +30,15 @@ try
 
     let domain = 'https://' + fs.readFileSync('CNAME');
 
+    console.log("Replacing Links")
+
     // Find / Replace assets in the content:
     let paths = walk(__dirname + '/../course/content/',{nodir: true, ignore: 'media'});
     for (let p of paths)
     {
         let contents = fs.readFileSync(p.path).toString();
         contents = contents.replace(/{{site\.baseurl}}/g,domain);
+        fs.writeFileSync(p.path, contents);
     }
 
     console.log("Finished Build");

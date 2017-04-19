@@ -12,5 +12,4 @@ jobs:
       - checkout
       - run: npm install
       - run: npm run generate
-      - store_artifacts:
-          path: ~/connectedacademy/generated
+      - run: git commit -am"AUTOBUILD" & git push origin gh-pages

@@ -18,7 +18,7 @@ vicisse guttur formam; nocte est exclamant spectabilis mora; cuius, suaque.
 Cornua aures, et a fugacem, Ceyca duo primum. Videre et deum ardor, retinere
 actum.
 
-![test 1](../../media/img1.jpg)
+![test 1](https://testclass.connectedacademy.io/media/img1.jpg)
 
 @[youtube](akoJ2zBwX1o)
 
