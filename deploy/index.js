@@ -72,7 +72,7 @@ try
             });
         }
     }
-    fs.writeFileSync('links.jsonp',"----\n----\ncallback(" + JSON.stringify(links) + ")");
+    fs.writeFileSync('links.jsonp',"callback(" + JSON.stringify(links) + ")");
 
     console.log("Finished Build");
 }
