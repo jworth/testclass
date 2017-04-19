@@ -1,2 +1,3 @@
 prose:
 	media: content/media
+    ignore: ['CNAME', '_prose.yml','README.md']
