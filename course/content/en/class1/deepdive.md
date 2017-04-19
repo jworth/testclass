@@ -10,7 +10,7 @@
 
 ![test 2](../../media/img2.jpg)
 
-![online-learning.png]({{site.baseurl}}/content/media/online-learning.png)
+![online-learning.png](../../media/online-learning.png)
 
 ![](../../media/desk-music-headphones-earphones.jpg)![desk-music-headphones-earphones.jpg](../../media/desk-music-headphones-earphones.jpg)
 
