@@ -4,7 +4,7 @@
   "description": "Structure and content for the Test Class, for Connected Academy development.",
   "main": "index.js",
   "scripts": {
-    "generate": "node --harmony-async-await index.js"
+    "generate": "node --harmony-async-await deploy/index.js"
   },
   "repository": {
     "type": "git",
