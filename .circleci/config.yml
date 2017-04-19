@@ -1,0 +1,16 @@
+version: 2
+general:
+  branches:
+    only:
+     - master
+jobs:
+  build:
+    docker: 
+      - image: node:7.4.0
+    working_directory: ~/connectedacademy
+    steps:
+      - checkout
+      - run: npm install
+      - run: npm run generate
+      - store_artifacts:
+          path: ~/connectedacademy/generated

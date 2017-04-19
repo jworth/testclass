@@ -1,0 +1,22 @@
+{
+  "name": "testclass",
+  "version": "1.0.0",
+  "description": "Structure and content for the Test Class, for Connected Academy development.",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node --harmony-async-await deploy/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connectedacademy/testclass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connectedacademy/testclass/issues"
+  },
+  "homepage": "https://github.com/connectedacademy/testclass#readme",
+  "dependencies": {
+    "js-yaml": "^3.8.3"
+  }
+}
