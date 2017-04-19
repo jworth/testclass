@@ -13,10 +13,7 @@ jobs:
       - run: npm install
       - run: npm run generate
       - add_ssh_keys
-      - run: git config --global user.name "CircleCI"
-      - run: git config --global user.email "info@connectedacademy.io"
+      # - run: git config --global user.name "CircleCI"
+      # - run: git config --global user.email "info@connectedacademy.io"
       - run: git commit -am"[skip CI] AUTOBUILD"
-      # - run: git fetch
-      # - run: git checkout origin/gh-pages
-      # - run: git merge master
       - run: git push -f origin gh-pages
