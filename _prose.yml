@@ -1,6 +1,6 @@
 prose:
   media: 'content/media'
-    ignore:
-      - CNAME
-      - _prose.yml
-      - README.md
+  ignore:
+    - CNAME
+    - _prose.yml
+    - README.md
