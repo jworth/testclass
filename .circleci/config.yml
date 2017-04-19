@@ -16,10 +16,10 @@ jobs:
       - run: git config --global user.name "CircleCI"
       - run: git config --global user.email "info@connectedacademy.io"
       - run: git commit -am"[skip CI] AUTOBUILD"
-      - run: git checkout gh-pages
-      - run: git merge --no-ff -X theirs master
+      # - run: git checkout gh-pages
+      # - run: git merge --no-ff -X theirs master
       # - run: git reset --hard master
-      - run: git push origin gh-pages
+      - run: git push origin gh-pages -f
       # - run: git checkout gh-pages
       # - run: git pull
       # - run: git push origin HEAD:gh-pages
