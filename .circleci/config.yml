@@ -12,5 +12,5 @@ jobs:
       - checkout
       - run: npm install
       - run: npm run generate
-    deploy:
+      - add_ssh_keys
       - run: git commit -am"AUTOBUILD" & git push origin gh-pages
