@@ -19,7 +19,7 @@ jobs:
       # - run: git checkout gh-pages
       # - run: git merge --no-ff -X theirs master
       # - run: git reset --hard master
-      - run: git push origin gh-pages -f
+      - run: git push origin origin/gh-pages -f
       # - run: git checkout gh-pages
       # - run: git pull
       # - run: git push origin HEAD:gh-pages
