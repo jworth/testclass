@@ -6,13 +6,13 @@
 
 ## Umor modis cantu
 
-![online-learning.png]({{site.baseurl}}/content/media/online-learning.png)
+![online-learning.png](../../media/online-learning.png)
 
-![test 2](../media/img2.jpg)
+![test 2](../../media/img2.jpg)
 
-![online-learning.png]({{site.baseurl}}/content/media/online-learning.png)
+![online-learning.png](../../media/online-learning.png)
 
-![]({{site.baseurl}}/content/media/desk-music-headphones-earphones.jpg)![desk-music-headphones-earphones.jpg]({{site.baseurl}}/content/media/desk-music-headphones-earphones.jpg)
+![](../../media/desk-music-headphones-earphones.jpg)![desk-music-headphones-earphones.jpg](../../media/desk-music-headphones-earphones.jpg)
 
 
 ![test online](http://lorempixel.com/640/480/sports/)
