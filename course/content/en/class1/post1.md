@@ -1,8 +1,8 @@
 ---
 published: true
-content_type: postclass
-optional: false
-title: Deep Dive Video
-video: 34dduir
-transcript: transcripts/34dduir.srt
+content_type: postwebinar
+optional: true
+title: Analysis
+video: 28OZoZT_6rk
+transcript: transcripts/28OZoZT_6rk.srt
 ---
