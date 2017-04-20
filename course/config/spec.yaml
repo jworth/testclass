@@ -8,7 +8,7 @@ langs:
   - ar
 classes:
   -
-    dir: /class1
+    dir: class1
     content:
       -
         url: intro.md
