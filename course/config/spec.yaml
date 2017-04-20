@@ -9,25 +9,17 @@ langs:
   - ar
 classes:
   -
-    name: Week 1
-    description: We talk about things in photography
+    dir: /class1
     content:
       -
-        title: "Introduction"
         content_type: "submission"
-        url: "/class1/intro.md"
-        optional: false
+        url: intro.md
       -
-        title: "Extra Reading"        
-        content_type: "pre"
-        url: "/class1/extra-pre-reading.md"
-        optional: true
+        content_type: pre
+        url: extra-pre-reading.md
       -
-        title: "Live Class Discussion"        
         content_type: "class"
-        video: "bnKFaAS30X8"
-        transcript: "/class1/bnKFaAS30X8.srt"
-        optional: false
+        url: class.md
         schedule:
           -
             release_at: "2017-04-05T10:57:37+01:00"
@@ -40,34 +32,20 @@ classes:
             release_at: "2017-04-05T22:57:37-07:00"
             hub_id: "irvine"
       -
-        title: "What Next"        
         content_type: "postclass"
-        video: "34dduir"
-        transcript: "/class1/34dduir.srt"
-        optional: false
+        url: postclass.md
       -
-        title: "Live Webinar"        
         content_type: "webinar"
-        video: "UdmHHpAsMVw"
-        transcript: "/class1/UdmHHpAsMVw.srt"
-        optional: false
+        url: webinar.md
         schedule:
           -
             release_at: "2017-04-05T22:57:37-07:00"
       -
-        title: "Deep Dive"        
         content_type: "postwebinar"
-        url: "/class1/deepdive.md"
-        optional: false
+        url: "deepdive.md"
       -
-        title: "Analysis"        
         content_type: "postwebinar"
-        video: "28OZoZT_6rk"
-        transcript: "/class1/28OZoZT_6rk.srt"
-        optional: true
+        url: post1.md
       -
-        title: "Out-takes"        
         content_type: "postwebinar"
-        video: "l0YH6cWxYwk"
-        transcript: "/class1/l0YH6cWxYwk.srt"
-        optional: true
+        url: post2.md

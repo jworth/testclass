@@ -3,3 +3,39 @@ prose:
   rooturl: course
   media: 'course/content/media'
   relativeLinks: https://testclass.connectedacademy.io/links.jsonp
+  metadata:
+    course:
+      - name: title
+        field:
+          element: text
+          label: title
+      - name: content_type
+        field:
+          element: select
+          label: Content Type
+          options:
+            - submission
+            - pre
+            - class
+            - postclass
+            - webinar
+            - postwebinar
+            - question
+      - name: description
+        field:
+          element: textarea
+          label: Description of Content
+          placeholder: Segment description
+      - name: optional
+        field:
+          element: checkbox
+          label: Mark content as optional (not core for course)
+          value: false
+      - name: video
+         field:
+          element: text
+          label: YouTube ID (optional)
+      - name: transcript
+        field:
+          element: text
+          label: Transcript File (optional)
