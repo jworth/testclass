@@ -4,7 +4,7 @@ prose:
   media: 'course/content/media'
   relativeLinks: https://testclass.connectedacademy.io/links.jsonp
   metadata:
-    course:
+    'course/content':
       - name: title
         field:
           element: text
