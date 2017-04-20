@@ -32,7 +32,7 @@ prose:
           label: Mark content as optional (not core for course)
           value: false
       - name: video
-         field:
+        field:
           element: text
           label: YouTube ID (optional)
       - name: transcript
