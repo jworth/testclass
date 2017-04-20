@@ -1,3 +1,9 @@
+---
+published: true
+content_type: title
+optional: false
+title: Deep Dive 2
+---
 # Mors quoque telaque superest equidem utilium ipsa
 
 ## Pavidum numina me
