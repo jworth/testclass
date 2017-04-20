@@ -6,6 +6,7 @@ accounts:
   - tombartindale
 langs:
   - en
+  - ar
 classes:
   -
     name: Week 1
