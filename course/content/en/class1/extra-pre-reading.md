@@ -1,3 +1,9 @@
+---
+published: true
+content_type: pre
+optional: true
+title: Extra Pre-Reading
+---
 # Mensum moturaque edidit
 
 ## Varios illi animum Arachnes securi iugulo quinta
