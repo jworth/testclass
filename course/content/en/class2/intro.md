@@ -1,8 +1,9 @@
 ---
 published: true
-content_type: title
+content_type: pre
 optional: false
 title: Introduction to Week 2
+description: 'Welcome to Week 2, click the button to get started!'
 ---
 # This is Week 2
 
