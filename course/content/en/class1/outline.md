@@ -1,3 +1,9 @@
+---
+published: true
+content_type: pre
+optional: false
+title: Outline
+---
 # Dant conscia oculis
 
 ## Laniata turribus
