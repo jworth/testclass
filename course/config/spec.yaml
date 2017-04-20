@@ -28,6 +28,8 @@ classes:
             release_at: "2017-04-05T22:57:37-07:00"
             hub_id: "irvine"
       -
+        content_type: question
+      -
         url: postclass.md
       -
         url: webinar.md
@@ -35,7 +37,11 @@ classes:
           -
             release_at: "2017-04-05T22:57:37-07:00"
       -
+        content_type: question
+      -
         url: "deepdive.md"
+      -
+        content_type: question
       -
         url: post1.md
       -
