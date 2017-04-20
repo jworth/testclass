@@ -1,3 +1,9 @@
+---
+published: true
+content_type: title
+optional: false
+title: Untitled
+---
 # De gemellam at columnis fueritque esse
 
 ## Passosque tristi Phlegon
