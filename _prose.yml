@@ -40,3 +40,7 @@ prose:
         field:
           element: text
           label: Transcript File (optional)
+      - name: "published"
+        field:
+          element: "hidden"
+          value: "true"
