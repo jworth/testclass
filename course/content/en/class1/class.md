@@ -3,5 +3,6 @@ published: true
 content_type: class
 optional: false
 title: Live Classroom
+transcript: transcripts/bnKFaAS30X8.srt
+video: bnKFaAS30X8
 ---
-
