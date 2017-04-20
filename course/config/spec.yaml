@@ -1,5 +1,6 @@
 name: "Test Course"
-hashtag: "#test/class1"
+description: "This is a description of the test course..."
+hashtag: "#TestCourse"
 starts: "2017-09-01T22:47:31-07:00"
 ends: "2017-09-20T22:47:31-07:00"
 accounts: 
