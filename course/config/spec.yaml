@@ -11,13 +11,10 @@ classes:
     dir: /class1
     content:
       -
-        content_type: "submission"
         url: intro.md
       -
-        content_type: pre
         url: extra-pre-reading.md
       -
-        content_type: "class"
         url: class.md
         schedule:
           -
@@ -31,20 +28,15 @@ classes:
             release_at: "2017-04-05T22:57:37-07:00"
             hub_id: "irvine"
       -
-        content_type: "postclass"
         url: postclass.md
       -
-        content_type: "webinar"
         url: webinar.md
         schedule:
           -
             release_at: "2017-04-05T22:57:37-07:00"
       -
-        content_type: "postwebinar"
         url: "deepdive.md"
       -
-        content_type: "postwebinar"
         url: post1.md
       -
-        content_type: "postwebinar"
         url: post2.md
