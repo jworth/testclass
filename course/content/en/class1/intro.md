@@ -1,3 +1,9 @@
+---
+published: true
+content_type: pre
+optional: false
+title: Introduction to Week 1
+---
 # Nato condidit petit quam mortua ab illo
 
 ![img1.jpg](https://testclass.connectedacademy.io/course/content/media/img1.jpg)
