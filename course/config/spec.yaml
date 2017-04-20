@@ -1,3 +1,9 @@
+---
+published: true
+title: ''
+content_type: title
+optional: false
+---
 hashtag: "#TestCourse"
 starts: "2017-09-01T22:47:31-07:00"
 ends: "2017-09-20T22:47:31-07:00"
@@ -9,6 +15,45 @@ langs:
 classes:
   -
     dir: class1
+    content:
+      -
+        url: intro.md
+      -
+        url: extra-pre-reading.md
+      -
+        url: class.md
+        schedule:
+          -
+            release_at: "2017-04-05T10:57:37+01:00"
+            leadhub: true
+            hub_id: "ams"
+          -
+            release_at: "2017-04-05T11:57:37Z"
+            hub_id: "ncl"
+          -
+            release_at: "2017-04-05T22:57:37-07:00"
+            hub_id: "irvine"
+      -
+        content_type: question
+      -
+        url: postclass.md
+      -
+        url: webinar.md
+        schedule:
+          -
+            release_at: "2017-04-05T22:57:37-07:00"
+      -
+        content_type: question
+      -
+        url: "deepdive.md"
+      -
+        content_type: question
+      -
+        url: post1.md
+      -
+        url: post2.md
+  -
+    dir: class2
     content:
       -
         url: intro.md
