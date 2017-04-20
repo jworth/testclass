@@ -1,3 +1,9 @@
+---
+published: true
+content_type: title
+optional: false
+title: Untitled
+---
 # Graiumque confiteorque carmen tutam vetustas ab membra
 
 [Page 2](deepdive2.md)
