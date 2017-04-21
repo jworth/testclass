@@ -18,23 +18,23 @@ registration:
   -
     id: 1
     text: How often do you watch or listen to any kind of video or podcast online? (Never, once a year, once a month, every week, everyday?)
-    response_type: scale
+    response_type: text
   -
     id: 2
     text: Prior to this course, have you ever engaged in live online discussion around an event (radio show, tv program, sports event or webinar)? (Never, once a year, once a month, every week, everyday?)
-    response_type: scale
+    response_type: text
   - 
     id: 3
-    text: How many online courses have you taken? (0, 1-5, 6-10, more than 10)
+    text: How many online courses have you taken?
     response_type: scale
   -
     id: 4
     text: What do you think about online courses? Do you prefer them over traditional lectures?
-    response_type: scale
+    response_type: boolean
   - 
     id: 5
     text: When learning, do you prefer a lecture setting where you get delivered information by an expert or do you prefer it to be more discussion-based ?
-    response_type: scale
+    response_type: text
 during:
   -
     id: 6
