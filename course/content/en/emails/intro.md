@@ -4,7 +4,7 @@ content_type: title
 optional: false
 title: Welcome to Test Course
 ---
-Hi {{user.name}}!
+Hi {{user}}!
 
 **Welcome to the Test Course.**
 
