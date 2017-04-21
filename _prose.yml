@@ -15,7 +15,6 @@ prose:
           label: Content Type
           options:
             - title
-            - submission
             - pre
             - class
             - postclass
