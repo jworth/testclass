@@ -3,6 +3,9 @@ published: true
 content_type: pre
 optional: false
 title: Introduction to Week 1
+description: >-
+  Welcome to week 1 of this test course, this week you will learn some things
+  that may or may not influence things you may or may not do in the future...
 ---
 # Nato condidit petit quam mortua ab illo
 
