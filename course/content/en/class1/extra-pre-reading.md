@@ -3,6 +3,10 @@ published: true
 content_type: pre
 optional: true
 title: Extra Pre-Reading
+description: >-
+  If you want to dive deeper check out this content about somehting written by
+  somebody. It may or may not help you prepare for the live session which you
+  may or may not take part in.
 ---
 # Mensum moturaque edidit
 
