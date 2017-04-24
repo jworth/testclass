@@ -29,6 +29,7 @@ during:
   - 
     id: 8
     text: When learning, do you prefer a lecture setting where you get delivered information by an expert
+    response_type: scale
 post:
   -
     id: 7
