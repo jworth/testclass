@@ -4,80 +4,145 @@ let walk = require('klaw-sync')
 let path = require('path');
 let frontmatter = require('front-matter');
 let _ = require('lodash');
+let chai = require('chai');
+chai.use(require('chai-fs'));
+let expect = chai.expect;
 
-console.log("Starting Build");
-try
-{
+describe('Docs Build',function(){
 
-    console.log("Checking Spec")
-    
-    // load spec
-    let raw = fs.readFileSync(__dirname + '/../course/config/spec.yaml');
-    let spec = yaml.safeLoad(raw);
-    console.log('✔ spec.yaml');
+    describe('Specification',function(){
 
-    // load hubs
-    raw = fs.readFileSync(__dirname + '/../course/config/hubs.yaml');
-    spec = yaml.safeLoad(raw);
-    console.log('✔ hubs.yaml');
+        let spec = null;
+        it('spec.yaml is valid',function(cb){
 
-    // load questions
-    //langs:
-    let files = fs.readdirSync(__dirname + '/../course/config/questions');
-    for (let f of files)
-    {
-        raw = fs.readFileSync(__dirname + '/../course/config/questions/' + f);
-        spec = yaml.safeLoad(raw);
-        console.log('✔ questions/' + f);    
-    }
+            // console.log("Checking Spec")                
+            // load spec
+            let raw = fs.readFileSync(__dirname + '/../course/config/spec.yaml');
+            spec = yaml.safeLoad(raw);
+            cb();
+            // console.log('✔ spec.yaml');
+        });
+
+        it ('hubs.yaml is valid',function(cb){
+            // load hubs
+            raw = fs.readFileSync(__dirname + '/../course/config/hubs.yaml');
+            let ff = yaml.safeLoad(raw);
+            cb();
+        });
+
+        it ('questions.yaml is valid',function(cb){
+            //langs:
+            let files = fs.readdirSync(__dirname + '/../course/config/questions');
+            for (let f of files)
+            {
+                raw = fs.readFileSync(__dirname + '/../course/config/questions/' + f);
+                let ff = yaml.safeLoad(raw);
+                
+            }
+            cb();
+        });
+
+        it ('all files exist',function(cb){
+            // console.log(spec);
+            for (let lang of spec.langs)
+            {
+                expect(__dirname + '/../course/content/' + lang + '/' + spec.about).to.be.a.file();
+                expect(__dirname + '/../course/content/' + lang + '/' + spec.info).to.be.a.file();
+             
+                for (let klass of spec.classes)
+                {
+                    for (let content of klass.content)
+                    {
+                        if (content.url)
+                            expect(__dirname + '/../course/content/' + lang + '/' + klass.dir + '/' + content.url).to.be.a.file();
+                    }
+                }
+            }
+            cb();
+        });
+
+        it ('should have uniqe slugs in a class',function(cb){
+            let class_slugs = _.map(spec.classes,'slug');
+            expect(_.uniq(class_slugs)).to.have.length.of(_.size(class_slugs));
+
+            for (let klass of spec.classes)
+            {
+                let slugs = _.map(klass.content,'slug');
+                // console.log(slugs);
+                // console.log(_.uniq(slugs));
+                // console.log(_.without(slugs,undefined));
+                
+                expect(_.without(_.uniq(slugs),undefined)).to.have.length.of(_.size(_.without(slugs,undefined)));
+            }
+            cb();
+        });
+
+        it ('should have all emails',function(cb){
+            let emails = ['intro.md'];
+            for (let lang of spec.langs)
+            {
+                for (let email of emails)
+                {
+                    expect(__dirname + '/../course/content/' + lang + '/emails/' + email).to.be.a.file();
+
+                    let raw = fs.readFileSync(__dirname + '/../course/content/' + lang + '/emails/' + email);
+                    let ff = frontmatter(raw.toString());
+                    expect(ff.attributes).to.haveOwnProperty('title');
+                }
+            }
+            cb();
+        });
+    });
+
 
     let domain = 'https://' + fs.readFileSync('CNAME');
 
-    console.log("Replacing Links")
+    // console.log("Replacing Links")
 
-    // Find / Replace assets in the content:
-    let paths = walk(__dirname + '/../course/content/',{nodir: true, ignore: 'media'});
-    for (let p of paths)
-    {
-        let contents = fs.readFileSync(p.path).toString();
-        contents = contents.replace(/{{site\.baseurl}}/g,domain);
-        fs.writeFileSync(p.path, contents);
-    }
+    describe('Build Chain',function(){
+        
+        let paths = walk(__dirname + '/../course/content/',{nodir: true, ignore: 'media'});
+        it ('should replace all links',function(cb){
+            // Find / Replace assets in the content:
+            for (let p of paths)
+            {
+                let contents = fs.readFileSync(p.path).toString();
+                contents = contents.replace(/{{site\.baseurl}}/g,domain);
+                fs.writeFileSync(p.path, contents);
+            }
+            cb();
+        });
 
-    console.log("Generate Page List")
-    let links = [];
-    for (let p of paths)
-    {
-        if (path.extname(p.path) == '.md')
-        {
-            // console.log(p);
-            let pa = path.dirname(p.path).split(path.sep)
-            let fm = {
-                attributes:{
-                    title: pa.pop() + "-" + pa.pop() + "-" + path.basename(p.path)
+        it ('should generate links.jsonp',function(cb){
+            let links = [];
+            for (let p of paths)
+            {
+                if (path.extname(p.path) == '.md')
+                {
+                    // console.log(p);
+                    let pa = path.dirname(p.path).split(path.sep)
+                    let fm = {
+                        attributes:{
+                            title: pa.pop() + "-" + pa.pop() + "-" + path.basename(p.path)
+                        }
+                    };
+                    try
+                    {
+                        fm = frontmatter(fs.readFileSync(p.path));
+                    }
+                    catch (e)
+                    {
+                        
+                    }
+
+                    links.push({
+                        text: fm.attributes.title,
+                        href:path.basename(p.path)
+                    });
                 }
-            };
-            try
-            {
-                fm = frontmatter(fs.readFileSync(p.path));
             }
-            catch (e)
-            {
-                
-            }
-
-            links.push({
-                text: fm.attributes.title,
-                href:path.basename(p.path)
-            });
-        }
-    }
-    fs.writeFileSync('links.jsonp',"callback(" + JSON.stringify(links) + ")");
-
-    console.log("Finished Build");
-}
-catch (e)
-{
-    console.error(e);
-    process.exit(1);
-}
+            fs.writeFileSync('links.jsonp',"callback(" + JSON.stringify(links) + ")");
+            cb();
+        });
+    });
+});

@@ -4,7 +4,7 @@
   "description": "Structure and content for the Test Class, for Connected Academy development.",
   "main": "index.js",
   "scripts": {
-    "generate": "node --harmony-async-await deploy/index.js"
+    "generate": "mocha --harmony-async-await deploy/index.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,9 @@
     "js-yaml": "^3.8.3",
     "klaw-sync":"1.1.2",
     "front-matter": "2.1.2",
-    "lodash":"4.17.4"
+    "lodash":"4.17.4",
+    "mocha":"3.3.0",
+    "chai": "3.5.0",
+    "chai-fs":"1.0.0"
   }
 }

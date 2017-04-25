@@ -11,7 +11,7 @@ description: >-
 
 ![img1.jpg](https://testclass.connectedacademy.io/course/content/media/img1.jpg)
 
-![database.png]({{site.baseurl}}/course/content/media/database.png)
+![database.png](https://testclass.connectedacademy.io/course/content/media/database.png)
 
 
 ## Se enim

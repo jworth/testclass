@@ -85,7 +85,7 @@ classes:
         content_type: question
       -
         url: postclass.md
-        slug: prereading
+        slug: postclass
       -
         url: webinar.md
         slug: webinar
