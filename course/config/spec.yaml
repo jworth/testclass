@@ -9,6 +9,7 @@ langs:
 classes:
   -
     dir: class1
+    slug: learn-photos
     content:
       -
         url: intro.md
@@ -48,6 +49,7 @@ classes:
         url: post2.md
   -
     dir: class2
+    slug: ethics
     content:
       -
         url: intro.md
