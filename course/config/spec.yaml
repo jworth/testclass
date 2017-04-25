@@ -6,6 +6,8 @@ accounts:
 langs:
   - en
   - ar
+about: about.md
+intro: courseintro.md
 classes:
   -
     dir: class1
