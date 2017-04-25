@@ -13,8 +13,10 @@ classes:
     content:
       -
         url: intro.md
+        slug: intro
       -
         url: extra-pre-reading.md
+        slug: prereading
       -
         url: class.md
         schedule:
