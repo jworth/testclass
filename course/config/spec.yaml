@@ -7,7 +7,7 @@ langs:
   - en
   - ar
 about: about.md
-intro: courseintro.md
+info: info.md
 classes:
   -
     dir: class1
