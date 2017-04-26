@@ -2,7 +2,7 @@
 published: true
 content_type: pre
 optional: false
-title: Introduction to Week 1
+title: Introduction to Week 2
 description: >-
   Week 2 is here! Hopefully you enjoyed the rich content from the first week of
   this test course and are ready to explore some new content this week. We have
