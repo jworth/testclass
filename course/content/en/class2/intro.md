@@ -4,8 +4,9 @@ content_type: pre
 optional: false
 title: Introduction to Week 1
 description: >-
-  Welcome to week 1 of this test course, this week you will learn some things
-  that may or may not influence things you may or may not do in the future...
+  Week 2 is here! Hopefully you enjoyed the rich content from the first week of
+  this test course and are ready to explore some new content this week. We have
+  live chats from some amazing people and the photography is out of this world.
 ---
 # Nato condidit petit quam mortua ab illo
 
