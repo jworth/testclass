@@ -7,6 +7,7 @@ let _ = require('lodash');
 let chai = require('chai');
 chai.use(require('chai-fs'));
 let expect = chai.expect;
+let parseSRT = require('parse-srt');
 
 describe('Docs Build',function(){
 
@@ -109,6 +110,21 @@ describe('Docs Build',function(){
                 let contents = fs.readFileSync(p.path).toString();
                 contents = contents.replace(/{{site\.baseurl}}/g,domain);
                 fs.writeFileSync(p.path, contents);
+            }
+            cb();
+        });
+
+        it ('should generate JSON subtitles',function(cb){
+            // Find / Replace assets in the content:
+            for (let p of paths)
+            {
+                if (path.extname(p.path)=='.srt')
+                {
+                   let contents = fs.readFileSync(p.path).toString();
+                   var jsonSubs = parseSRT(contents);
+                   fs.writeFileSync(p.path.replace('.srt','.json'), JSON.stringify(jsonSubs));
+                }
+
             }
             cb();
         });

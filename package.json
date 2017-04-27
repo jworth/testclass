@@ -23,6 +23,7 @@
     "lodash":"4.17.4",
     "mocha":"3.3.0",
     "chai": "3.5.0",
-    "chai-fs":"1.0.0"
+    "chai-fs":"1.0.0",
+    "parse-srt":"1.0.0-alpha"
   }
 }
