@@ -2,7 +2,7 @@
 
 cd /tmp
 git clone git@github.com:connectedacademy/elevator.git
-cp /tmp/docs /connectedacademy
+cp /tmp/elevator/docs ~/connectedacademy
 
 # upgrade changes
 git config --global user.name "CircleCI"
