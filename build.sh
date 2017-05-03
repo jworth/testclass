@@ -5,6 +5,8 @@ git clone --depth=1 git@github.com:connectedacademy/elevator.git
 # ls /tmp/elevator
 cp -r /tmp/elevator/docs ~/connectedacademy
 
+
+cd ~/connectedacademy
 # upgrade changes
 git config --global user.name "CircleCI"
 git config --global user.email "info@connectedacademy.io"
