@@ -13,4 +13,5 @@ jobs:
       - run: npm install
       - run: npm run generate
       - add_ssh_keys
+      - run: chmod +x ./build.sh
       - run: ./build.sh
