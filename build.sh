@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/ash
 
 cd /tmp
 git clone git@github.com:connectedacademy/elevator.git
