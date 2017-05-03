@@ -1,8 +1,8 @@
 #!/bin/bash
 
 cd /tmp
-git clone git@github.com:connectedacademy/elevator.git
-ls /tmp/elevator
+git clone --depth=1 git@github.com:connectedacademy/elevator.git 
+# ls /tmp/elevator
 cp -r /tmp/elevator/docs ~/connectedacademy
 
 # upgrade changes
