@@ -3,9 +3,7 @@ published: true
 content_type: pre
 optional: false
 title: Introduction to Week 1
-description: >-
-  Welcome to week 1 of this test course, this week you will learn some things
-  that may or may not influence things you may or may not do in the future...
+description: This week we are finding out about evidence in photography
 ---
 # Week 1 - Evidence
 
@@ -21,7 +19,7 @@ What role does trust have, and how do we as storytellers gain that trust and imb
 
 ## Preparation
 
-In advance of class 1: Using the Four Corners template, produce an image that tells the story of something that isn’t there. Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
+In advance of this Class, Using the **Four Corners** template, produce an image that tells the story of something that isn’t there. Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
 
 Follow [the instructions](4corners.md) to create and upload your submission.
 
