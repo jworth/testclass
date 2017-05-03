@@ -3,7 +3,7 @@
 cd /tmp
 git clone --depth=1 git@github.com:connectedacademy/elevator.git 
 # ls /tmp/elevator
-cp -r /tmp/elevator/docs ~/connectedacademy
+cp -r /tmp/elevator/docs/* ~/connectedacademy
 
 
 cd ~/connectedacademy
