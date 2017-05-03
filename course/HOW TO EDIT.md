@@ -23,3 +23,4 @@ This file defines which `hubs` or situated classes are happening, and their rela
 ### questions.yaml
 
 This file defines the analytics, legal releases and specific questions to be asked as part of registration and throughout the course.
+
