@@ -7,39 +7,24 @@ description: >-
   Welcome to week 1 of this test course, this week you will learn some things
   that may or may not influence things you may or may not do in the future...
 ---
-# Nato condidit petit quam mortua ab illo
+# Week 1 - Evidence
 
-![img1.jpg](https://testclass.connectedacademy.io/course/content/media/img1.jpg)
+How do we as photographers tell the story of a subject that is missing? How might one tell the story of loss, of the deceased, the invisible?
 
-![database.png](https://testclass.connectedacademy.io/course/content/media/database.png)
+How might these images constitute or inform a body of evidence?
 
+How might they and we, be believed?
 
-## Se enim
+What role does trust have, and how do we as storytellers gain that trust and imbue our work with it?
 
-Lorem markdownum addita, avia! Excutiunt dixit spectacula omnibus litusque
-respicit vidi fatorum, fore omnia, ulva. Subposuere est; inimicos vides aut
-incubuit traditur interea sensit. Iam esse totus rapuitque patuit Penthea; primo
-et respondet sororis quique.
+----
 
-1. Ore toto sacrilegos nato dammis naias subiectatque
-2. Flamine obliquum et inque hoc fidem te
-3. Posset et nostras dederat prosunt at plures
+## Preparation
 
-Nata suorum sibi fabrae decipienda fuisse semine! Devexo vidit adhuc super
-caedisque placido priscum patentes dominus tamen Aurora; incubat ab contingere
-legunt et lacertis Athin, nulla. Vobisque oscula submovet, tenes iram matremque
-vicisse guttur formam; nocte est exclamant spectabilis mora; cuius, suaque.
-Cornua aures, et a fugacem, Ceyca duo primum. Videre et deum ardor, retinere
-actum.
+In advance of class 1: Using the Four Corners template, produce an image that tells the story of something that isn’t there. Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
 
-![test 1](https://testclass.connectedacademy.io/media/img1.jpg)
+Follow [the instructions](4corners.md) to create and upload your submission.
 
-@[youtube](akoJ2zBwX1o)
-
-# SUBMIT YOUR 4C IMAGE HERE
+**Put the link to your submission here**
 
 &[submit](4corners)
-
-
-
-[class1-en-deepdive3.md](deepdive3.md)
