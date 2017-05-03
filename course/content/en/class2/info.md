@@ -2,6 +2,6 @@
 published: true
 content_type: title
 optional: false
-title: Week 2
+title: Interpretation
 description: This week we explore framing and composition.
 ---
