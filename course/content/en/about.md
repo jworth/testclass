@@ -6,4 +6,6 @@ title: About
 ---
 ## About Connected Academy
 
-Some things about CA and who its been made by.
+Connected Academy is an online, socially driven learning platform developed by a team of educators and researchers.
+
+Find out more about how you can run your own course at http://connectedacademy.io
