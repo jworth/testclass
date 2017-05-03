@@ -15,4 +15,4 @@ git add .
 git commit -am"[skip CI] AUTOBUILD"
 git checkout -b gh-pages
 git rebase -Xtheirs staging
-# git push -u -f origin gh-pages
+git push -u -f origin gh-pages
