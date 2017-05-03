@@ -1,17 +1,16 @@
-hashtag: "#brexit"
+hashtag: "#wpca17"
 starts: "2017-09-01T22:47:31-07:00"
 ends: "2017-09-20T22:47:31-07:00"
 accounts: 
   - tombartindale
 langs:
   - en
-  - ar
 about: about.md
 info: info.md
 classes:
   -
     dir: class1
-    slug: learn-photos
+    slug: evidence
     content:
       -
         url: intro.md
@@ -59,7 +58,7 @@ classes:
         slug: extra1
   -
     dir: class2
-    slug: ethics
+    slug: interpretation
     content:
       -
         url: intro.md
