@@ -21,7 +21,7 @@ What role does trust have, and how do we as storytellers gain that trust and imb
 
 In advance of this Class, Using the **Four Corners** template, produce an image that tells the story of something that isn’t there. Use the corners to include supporting images, a backstory, any relevant links, your code of ethics and a copyright notice.
 
-Follow [the instructions](../4corners.md) to create and upload your submission.
+Follow [the instructions](../fourcorners.md) to create and upload your submission.
 
 **Put the link to your submission here**
 
