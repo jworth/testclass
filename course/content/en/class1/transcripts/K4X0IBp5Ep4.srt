@@ -1,9 +1,3 @@
----
-published: true
-title: ''
-content_type: title
-optional: false
----
 1
 00:00:00,459 --> 00:00:04,759
 hello i'm jonathan from the connected
