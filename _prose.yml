@@ -39,6 +39,10 @@ prose:
         field:
           element: text
           label: Transcript File (optional)
+      - name: duration
+        field:
+          element: text
+          label: Video Duration in Seconds (optional)
       - name: "published"
         field:
           element: "hidden"
