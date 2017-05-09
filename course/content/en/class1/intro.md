@@ -4,6 +4,7 @@ content_type: pre
 optional: false
 title: Introduction to Week 1
 description: This week we are finding out about evidence in photography
+expectsubmission: true
 ---
 # Week 1 - Evidence
 

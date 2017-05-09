@@ -43,6 +43,11 @@ prose:
         field:
           element: text
           label: Video Duration in Seconds (optional)
+      - name: "expectsubmission"
+        field:
+          element: checkbox
+          label: This content expects the user to submit something
+          value: false
       - name: "published"
         field:
           element: "hidden"
