@@ -8,5 +8,6 @@ transcript: transcripts/UdmHHpAsMVw.srt
 description: >-
   Join us live with the subjects of the live class to discuss evidence in
   photograhpy.
-duration: 596
+duration: '596'
+expectsubmission: true
 ---
