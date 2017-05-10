@@ -26,4 +26,4 @@ Follow [the instructions](../fourcorners.md) to create and upload your submissio
 
 **Put the link to your submission here**
 
-&[submit](4corners)
+@[fourcorners](submission)
