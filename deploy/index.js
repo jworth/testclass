@@ -137,23 +137,31 @@ describe('Docs Build',function(){
                 {
                     // console.log(p);
                     let pa = path.dirname(p.path).split(path.sep)
+                    let klass = pa.pop();
+                    let lang = pa.pop();
                     let fm = {
                         attributes:{
-                            title: pa.pop() + "-" + pa.pop() + "-" + path.basename(p.path)
+                            title: klass + "-" + lang + "-" + path.basename(p.path)
                         }
                     };
                     try
                     {
-                        fm = frontmatter(fs.readFileSync(p.path));
+                        // console.log(p.path);
+                        fm = frontmatter(fs.readFileSync(p.path).toString());
                     }
                     catch (e)
                     {
-                        
+                        // console.log(e)
                     }
 
+                    // let paths = walk(__dirname + '/../course/content/',{nodir: true, ignore: 'media'});
+                    // console.log(path.normalize(__dirname + '/../course/content/'));
+                    // console.log(p.path.replace(path.normalize(__dirname + '/../course/content/'),'').substring(2));
+                    
+
                     links.push({
-                        text: fm.attributes.title,
-                        href:path.basename(p.path)
+                        text: "[" + klass + "] " + fm.attributes.title + " (" + lang + ")",
+                        href:p.path.replace(path.normalize(__dirname + '/../course/content/'),'').substring(2).split(path.sep).join('/')
                     });
                 }
             }
