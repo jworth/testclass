@@ -6,19 +6,19 @@ title: Untitled
 ---
 # Graiumque confiteorque carmen tutam vetustas ab membra
 
-[Page 2](deepdive2.md)
+[Page 2](/class1/deepdive2.md)
 
-[Page 3](deepdive3.md)
+[Page 3](/class1/deepdive3.md)
 
 ## Umor modis cantu
 
-![online-learning.png](../../media/online-learning.png)
+![online-learning.png]({{site.baseurl}}/media/online-learning.png)
 
-![test 2](../../media/img2.jpg)
+![test 2]({{site.baseurl}}/media/img2.jpg)
 
-![online-learning.png](../../media/online-learning.png)
+![online-learning.png]({{site.baseurl}}/media/online-learning.png)
 
-![](../../media/desk-music-headphones-earphones.jpg)![desk-music-headphones-earphones.jpg](../../media/desk-music-headphones-earphones.jpg)
+![]({{site.baseurl}}/media/desk-music-headphones-earphones.jpg)![desk-music-headphones-earphones.jpg]({{site.baseurl}}/media/desk-music-headphones-earphones.jpg)
 
 
 ![test online](http://lorempixel.com/640/480/sports/)
