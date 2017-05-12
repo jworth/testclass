@@ -38,7 +38,11 @@ prose:
       - name: transcript
         field:
           element: text
-          label: Transcript File (optional)
+          label: Transcript File (optional, json)
+      - name: prompts
+        field:
+          element: text
+          label: Prompts File (optional, json)
       - name: duration
         field:
           element: text
