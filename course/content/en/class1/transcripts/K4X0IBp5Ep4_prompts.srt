@@ -1,0 +1,7 @@
+1
+00:00:00,459 --> 00:00:02,660
+We want you to talk about cheese
+
+2
+00:00:02,660 --> 00:00:04,759
+And then we want you to think about strawberries
