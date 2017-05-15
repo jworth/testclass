@@ -50,12 +50,6 @@ classes:
         slug: deepdive
       -
         content_type: question
-      -
-        url: post1.md
-        slug: extravideo
-      -
-        url: post2.md
-        slug: extra1
   -
     dir: class2
     slug: interpretation
