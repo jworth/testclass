@@ -16,6 +16,8 @@ classes:
         url: intro.md
         slug: intro
       -
+        content_type: question
+      -
         url: extra-pre-reading.md
         slug: prereading
       -
@@ -46,7 +48,7 @@ classes:
       -
         content_type: question
       -
-        url: "deepdive.md"
+        url: deepdive.md
         slug: deepdive
       -
         content_type: question
