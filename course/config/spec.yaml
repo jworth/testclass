@@ -106,15 +106,20 @@ classes:
   -
     dir: class3
     slug: fiction
+    content:
   -
     dir: class4
     slug: fact
+    content:
   -
     dir: class5
     slug: narrative
+    content:
   -
     dir: class6
     slug: impact
+    content:
   -
     dir: class7
     slug: summary
+    content:
