@@ -4,88 +4,66 @@ content_type: pre
 optional: true
 title: Extra Pre-Reading
 description: >-
-  If you want to dive deeper check out this content about somehting written by
-  somebody. It may or may not help you prepare for the live session which you
-  may or may not take part in.
+  Example Four Corners images to help you understand evidence.
 expectsubmission: true
 ---
-# Mensum moturaque edidit
 
-## Varios illi animum Arachnes securi iugulo quinta
 
-Lorem markdownum numquam vel sacra, esse bulla plangentibus dentes danti,
-Somnus. Sub rexit forte nudumque: quibus. Moto nulla dixi obiecit Saturnia
-corripiunt erat; nil putes dubitabat Antandro quae Astyanax tu nunc quisquis nec
-causamque natos. Locus Iovis lues manebit; mundus integer, prima; ab, Epopeus!
-Posset ora dea frequentant: rogat victa mori et vestra Lycaon ad litus, dant cui
-securi piumque successu specieque.
 
-- Communes navale numina superatus currus flamma aeternas
-- Vi quod mea silvaque ardua
-- Obstipuere omnes
-- Novum in lacus
+<img src="/course/content/media/week1-picture1.jpg" data-4c="885126f7-02a8-701f-1c12-7e38205475a5" />
 
-## Iacent arva quibus
+Picture 1: Don McCullin, 1964
+Key words: grief, civil war, family, loss, trauma, absence, testimony
 
-Gigantas ponto, motu altos ego, dedere levat, supposuique et domo, victus. Nec
-expetit quaecumque vires est ni torreri fletumque Ladonis telluris iuvenco
-caelum. Hos quae et tersere, ab memor et facundia terra fluminaque origine
-matrisque relicta! Qui foliis, descenderat opto flava mollia mater cadentem
-ferisne cessura et distat florent hospes.
 
-1. Primo tamen tumulo descenderat mora suppositosque stabam
-2. Memorant imperium mutato exiguo
-3. Suos tantum pendentia exit Lyncides agricolis potestis
+<script type="text/json" data-4c-meta="885126f7-02a8-701f-1c12-7e38205475a5">
+{"context":[{"credit":"Don McCullin","src":"http://www.tate.org.uk/art/images/work/AR/AR01183_10.jpg"}],"links":[{"title":"1964: Deaths follow Cyprus truce breach","url":"http://news.bbc.co.uk/onthisday/hi/dates/stories/february/12/newsid_2745000/2745245.stm"}],"backStory":{"text":"The years following Cyprus's independence from British rule in 1960 saw constitutional wrangling and rising tension between the island's Turkish Cypriot and Greek Cypriot communities. This escalated into clashes between rival paramilitary factions. Greece and Turkey became increasingly embroiled in the situation. Greece sent 20,000 troops to the island, while Turkey responded to attacks on Turkish Cypriot areas with air strikes. In 1964 the United Nations sent in peacekeeping troops to support British soldiers manning the so-called \"Green Line\", set up to divide the Greek and Turkish Cypriot sectors of Nicosia.","author":"Don McCullin","magazine":"The Observer / Quick / Life","magazineUrl":"https://www.worldpressphoto.org/collection/photo/1964/world-press-photo-year/don-mccullin","date":"20-03-1964"},"creativeCommons":{"copyright":"Don McCullin © 1964","codeOfEthics":"Entrants to the World Press Photo contest must ensure their pictures provide an accurate and fair representation of the scene they witnessed so the audience is not misled.","description":"Ghaziveram, Cyprus. A Turkish woman mourns her dead husband, a victim of the Cyprus Civil War between Greek Cypriotes and Turkish Cypriotes"}}
+</script>
 
-## Lege reperitur caperet sunt boves umbrae
 
-Cepheus quam pallamque suis, in victa sub fatalia. Erat collo quondam alumnus
-dextraeque limina onerata nec sine! Non sub virum Dumque cinxisse ab dabatur
-sequeretur et flos vacarunt, penetratque, heros. De tuta patientem et dearum et
-matrona vocabere vera a verba non hominum.
 
-- Colorum poenam tantique carinae
-- Eras Hecates Atrides illa
-- Rogari venit
+<img src="/course/content/media/week1-picture2.jpg" data-4c="51d37272-832f-a854-c46d-27df1de5deb2" />
 
-Quoque ferre. Est sit require, huius coniecto serpens proceresque Iovi, arma
-errant ego. Aequore cum tempora capillos cuncta tamen commoda, reliquerat oculi
-me marmorea explicat genis ad et adiuvet.
+Picture 2: James Nachtwey, 1995
+Key words: civil war, torture, photography as evidence, physical scars, physical proof, consequences of war, justice, aftermath 
 
-## Corpora Aeacidae eodem seu
 
-Lorem markdownum, mota in illi dolore bona est tum maduerunt canum ara pondere
-seque sub fatemur! Gemma auribus spargentem animi. Nos diu ambo, fratres, et,
-iamque vocem mole suus contendere humanos.
 
-1. Metum ait accessit
-2. Siccis vocat vicit corripe
-3. Refers motis tulit piget
+<script type="text/json" data-4c-meta="51d37272-832f-a854-c46d-27df1de5deb2">
+{"context":[{"credit":"AFP","src":"https://ichef.bbci.co.uk/news/1024/media/images/74046000/jpg/_74046097_74043193.jpg"}],"links":[{"title":"When the World Turned Its Back: James Nachtwey's Reflections on the Rwandan Genocide","url":"http://time.com/3449593/when-the-world-turned-its-back-james-nachtweys-reflections-on-the-rwandan-genocide/?iid=lb-gal-viewagn#1"}],"backStory":{"text":"Liberated from a nearby Hutu camp, where mainly Tutsis were incarcerated, starved, beaten, and killed, this man did not support the genocide and was thus subjected to the same treatment. Starved and attacked with machetes, he had managed to survive, though he was unable to speak and could barely walk or swallow when this photo was made. The animosity between the Hutu and Tutsi population groups in Rwanda had been simmering for decades. In April 1994, Hutu President Juvénal Habyarimana’s death in a plane crash near the capital of Kigali sparked murderous attacks on the Tutsi minority and Hutu moderates. The situation deteriorated further when the mainly Tutsi rebels of the Rwandan Patriotic Front (RPF) started pushing south from their stronghold in northern Rwanda. A mass exodus of people trying to escape excessive violence was underway by July.","author":"James Natchwey","magazine":"Magnum Photos for Time","magazineUrl":"https://www.worldpressphoto.org/collection/photo/1995/world-press-photo-year/james-nachtwey","date":"June 1, 1994"},"creativeCommons":{"copyright":"James Nachtwey © 1994","codeOfEthics":"Entrants to the World Press Photo contest must ensure their pictures provide an accurate and fair representation of the scene they witnessed so the audience is not misled.","description":"A Hutu man at a Red Cross hospital in Nyanza, Rwanda. His face was mutilated by the Hutu 'Interahamwe' militia, who suspected him of sympathizing with the Tutsi rebels."}}
+</script>
 
-Dextera Lethaei et ab et levis vidisse haec. Est pars versato duobus, rapidum
-Taenarius monticolae adest parva silva non rupit edita fetibus.
 
-## Erat dixit
 
-Adest in opem urbe venenum parte semilacerque arbore eodem, ut fauces, toros!
-Suorum sanguine, quod summo cupit oculis, te omnes. Nati mediam talia, loqui,
-utque tonitrumque lumina crepuscula quae.
+<img src="/course/content/media/week1-picture3.jpg" data-4c="aa41a988-e13a-99d9-7c69-a17c3b4b4061" />
+Picture 3: Robin Moyer, 1982
+Keywords: Lebanon civil war, evidence, killings, war photography, spot news, massacres
 
-> Est talia solent, unda, ut amori, Abantiades transitus! Caelo ne rates de nec
-> facit pugnatque armorum ventorum oneri, tamen postquam et. Prona inmemores et
-> suprema quae. Utile sententia et genero, Cyprio oscula. Deum ipse lacertis
-> Pentheus placet, tu supplex primum legit.
 
-## Animal et
 
-Concordi voces. Nec esse inmissa citra et quantum poenas est, et utinam moriens
-ingrati forem.
+<script type="text/json" data-4c-meta="aa41a988-e13a-99d9-7c69-a17c3b4b4061">
+{"context":[{"credit":"George Azar/ GETTY","src":"http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2012/12/11/2012121111221347734_20.jpg"}],"links":[{"title":"Flashback: Sabra and Shatila massacres","url":"http://news.bbc.co.uk/2/hi/middle_east/1779713.stm"}],"backStory":{"text":"The massacre of Palestinian civilians in the Beirut refugee camps of Sabra and Shatila took place between 16 and 18 September 1982 during the Lebanese Civil War. About 150 Lebanese militia fighters killed at least 500 Palestinian civilians, including large numbers of women, children, and the elderly. Estimates of the total death toll range from 500 to 4,000. The armed militia was linked to the Phalange party, allied with the Israeli Defense Force, which at the time occupied Beirut and held the refugee camps under its control.","author":"Robin Moyer","magazine":"Black Star for Time","magazineUrl":"https://www.worldpressphoto.org/collection/photo/1983/world-press-photo-year/robin-moyer","date":"October 18, 1982"},"creativeCommons":{"copyright":"Robin Moyer © 1982","codeOfEthics":"Entrants to the World Press Photo contest must ensure their pictures provide an accurate and fair representation of the scene they witnessed so the audience is not misled","description":"Beirut, Lebanon. Bodies of Palestinian victims after a massacre by Christian Phalange militia lie in the streets of Beirut’s Sabra and Shatila refugee camps."}}
+</script>
 
-> Indiciumque arida trames. Post huc venabula, anni falce esse postquam molles.
-> Ferunt et sua: tellus participes dubitaret non; saxa petiit tantae, sinistro!
-> Pars paulatim perstrinxerat saepe.
 
-Fluitare dixerat pharetratae, freta ita expalluit funale, nostro ipsa coniuge;
-sol labant auro est tangat tangeret. Nefandis munus nec nocti posito praenuntia
-pompa pontus denique vocoque aufer, illi. Prohibebar rugosoque bracchia mihi
-veras Latios crescens est aliquid. E graves.
+<img src="/course/content/media/week1-picture4.jpg" data-4c="1f532292-44e3-3640-23ce-5a911a55edfa" />
+
+Picture four: John Stanmeyer, 2014
+Keywords: absence, relatives, missing, displacement, refugees, social link
+
+
+
+<script type="text/json" data-4c-meta="1f532292-44e3-3640-23ce-5a911a55edfa">
+{"context":[{"credit":"Angelo Tzortzinis AFP","src":"https://cdn-images-1.medium.com/max/800/0*8l7qBItAApXBcdTZ.jpg"}],"links":[{"title":"See How Smartphones Have Become a Lifeline for Refugees","url":"http://time.com/4062120/see-how-smartphones-have-become-a-lifeline-for-refugees/"}],"backStory":{"text":"Impoverished African migrants crowd the night shore of Djibouti city, trying to capture inexpensive cell signals from neighboring Somalia—a tenuous link to relatives abroad. For more than 60,000 years our species has been relying on such intimate social connections to spread across the Earth.","author":"John Stanmeyer","magazine":"VII for National Geographic","magazineUrl":"https://www.worldpressphoto.org/collection/photo/2014/contemporary-issues/john-stanmeyer","date":"February 26, 2013"},"creativeCommons":{"copyright":"John Stanmeyer © 2013","codeOfEthics":"Entrants to the World Press Photo contest must ensure their pictures provide an accurate and fair representation of the scene they witnessed so the audience is not misled","description":"African migrants on the shore of Djibouti City at night raise their phones in an attempt to catch an inexpensive signal from neighboring Somalia—a tenuous link to relatives abroad."}}
+</script>
+
+
+<img src="/course/content/media/week1-picture5.jpg" data-4c="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620" />
+
+Picture 5: Françoise Demulder, 1977 (first female winner of WPP)
+Keywords: Lebanon civil war, war photography, massacre, killings, civilians
+
+
+<script type="text/json" data-4c-meta="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620">
+{"context":[{"credit":"Don McCullin","src":"http://www.tate.org.uk/art/images/work/AR/AR01217_10.jpg"}],"links":[{"title":"The historiography and the memory of the Lebanese civil war","url":"http://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/historiography-and-memory-lebanese-civil-war"},{"title":"LEBANON KARANTINA AFTERMATH","url":"http://www.aparchive.com/metadata/LEBANON-KARANTINA-AFTERMATH/2a5ab63841d296abc29f85edf10fb44c?query=karantina&current=2&orderBy=Relevance&hits=20&referrer=search&search=/search%3Fstartd%3D%26endd%3D%26allFilters%3D%26query%3Dkarantina%26advsearchStartDateFilter%3D%26advsearchEndDateFilter%3D%26searchFilterHdSDFormat%3DAll%26searchFilterDigitized%3DAll%26searchFiltercolorFormat%3DAll%26searchFilteraspectratioFormat%3DAll&allFilters=&productType=IncludedProducts&page=1"}],"backStory":{"text":"The civil war had erupted in 1975 and would last until 1990. Before the war, Lebanon was a multi-sectarian country, where Sunnis, Shias, Maronite Christians, Druze and several other communities lived together in a fragile co-existence. The establishment of the state of Israel, the displacement of hundred thousands of Palestinian refugees to Lebanon, the Cold War with its polarizing influence on Lebanese society, and the arrival in the early 1970s of armed forces of the Palestine Liberation Organization (PLO) all had a disintegrative effect on the country. The civil war started with a series of retaliatory sectarian attacks but would eventually become a long and complicated conflict, which also involved countries from outside Lebanon, including Israel and Syria. When Françoise Demulder came to Amsterdam to receive her World Press Photo of the Year award in 1977, she told the Dutch newspaper Het Vrije Volk that she had gone into the Christian zone on the day the Phalange decided to ‘cleanse’ the neighborhood of Karantina. She explained, “The Christians went from house to house in the Palestinian neighborhood. They shot at everyone there. There were 350 civilians, who ran from their homes crying. Palestinians came out with white flags on their rifles. But the Phalangists kept shooting, not caring who they hit. I had never experienced such a fanatic hatred there before—horrible.” According to Demulder, only the young girl and her child in the background of the image survived the massacre.","author":"Françoise Demulder","magazine":"Commissioned by Gamma","magazineUrl":"https://www.worldpressphoto.org/collection/photo/1977/world-press-photo-year/fran%C3%A7oise-demulder","date":"January 18, 1976"},"creativeCommons":{"copyright":"Françoise Demulder © 1976","codeOfEthics":"Entrants to the World Press Photo contest must ensure their pictures provide an accurate and fair representation of the scene they witnessed so the audience is not misled.","description":"Beirut, Lebanon. A Palestinian woman pleads with a Phalange gunman in the Karantina neighborhood of East Beirut (also known as La Quarantaine). That morning, Phalange militia had attacked and evicted the largely Palestinian refugee population of this district, setting their homes on fire and leaving hundreds dead. The Karantina massacre was one of the many violent incidents marking the first years of the Lebanese civil war"}}
+</script>
