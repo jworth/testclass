@@ -106,3 +106,18 @@ classes:
       -
         url: post2.md
         slug: post2
+   -
+    dir: class3
+    slug: fiction
+   -
+    dir: class4
+    slug: fact
+   -
+    dir: class5
+    slug: narrative
+   -
+    dir: class6
+    slug: impact
+   -
+    dir: class7
+    slug: summary
