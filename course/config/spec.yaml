@@ -107,19 +107,34 @@ classes:
     dir: class3
     slug: fiction
     content:
+      -
+        url: intro.md
+        slug: intro
   -
     dir: class4
     slug: fact
     content:
+      -
+        url: intro.md
+        slug: intro
   -
     dir: class5
     slug: narrative
     content:
+      -
+        url: intro.md
+        slug: intro
   -
     dir: class6
     slug: impact
     content:
+      -
+        url: intro.md
+        slug: intro
   -
     dir: class7
     slug: summary
     content:
+      -
+        url: intro.md
+        slug: intro
