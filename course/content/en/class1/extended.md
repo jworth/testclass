@@ -1,8 +1,10 @@
 ---
 published: true
-content_type: postwebinar
+content_type: postclass
 optional: true
-expectsubmission: false
+expectsubmission: true
 title: Additional Watching
-description: Extended interviews and commentary from Dalia Khamissy, Dhalia interviews, Benjamin Chesterton and Saree Makdisi
+description: >-
+  Extended interviews and commentary from Dalia Khamissy, Dhalia interviews,
+  Benjamin Chesterton and Saree Makdisi
 ---
