@@ -37,22 +37,19 @@ classes:
       -
         content_type: question
       -
-        url: postclass.md
-        slug: postclass
+        url: extended.md
+        slug: extended
+      -
+        url: deepdive.md
+        slug: deepdive
+      -
+        content_type: question
       -
         url: webinar.md
         slug: webinar
         schedule:
           -
             release_at: "2017-04-05T22:57:37-07:00"
-      -
-        content_type: question
-      -
-        url: extended.md
-        slug: extended
-      -
-        url: deepdive.md
-        slug: deepdive
       -
         content_type: question
       -
