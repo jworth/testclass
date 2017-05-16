@@ -40,12 +40,6 @@ classes:
         url: postclass.md
         slug: postclass
       -
-        url: webinar.md
-        slug: webinar
-        schedule:
-          -
-            release_at: "2017-04-05T22:57:37-07:00"
-      -
         content_type: question
       -
         url: extended.md
@@ -53,6 +47,12 @@ classes:
       -
         url: deepdive.md
         slug: deepdive
+      -
+        url: webinar.md
+        slug: webinar
+        schedule:
+          -
+            release_at: "2017-04-05T22:57:37-07:00"
       -
         content_type: question
       -
