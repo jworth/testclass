@@ -37,16 +37,13 @@ classes:
       -
         content_type: question
       -
-        url: postclass.md
-        slug: postclass
-      -
-        content_type: question
-      -
         url: extended.md
         slug: extended
       -
         url: deepdive.md
         slug: deepdive
+      -
+        content_type: question
       -
         url: webinar.md
         slug: webinar
