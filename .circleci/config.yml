@@ -3,6 +3,11 @@ general:
   branches:
     only:
      - master
+
+notify:
+  webhooks:
+    - url: https://api.connectedacademy.io/clearcache
+
 jobs:
   build:
     docker: 
