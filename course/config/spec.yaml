@@ -230,7 +230,7 @@ classes:
         slug: liveclass
         schedule:
           -
-            release_at: "2017-05-1T10:57:37+01:00"
+            release_at: "2017-05-01T10:57:37+01:00"
             leadhub: true
             hub_id: "ams"
       -
@@ -248,7 +248,7 @@ classes:
         slug: webinar
         schedule:
           -
-            release_at: "2017-05-3T22:57:37-07:00"
+            release_at: "2017-05-03T22:57:37-07:00"
       -
         content_type: question
       -
