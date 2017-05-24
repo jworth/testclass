@@ -105,7 +105,6 @@ release: >-
   These Terms of Use were last updated on 24th April 2017.
 
 registration:
-
   -
     id: 1
     text: Summerise your thoughts on about online courses? Do you prefer them over traditional lectures?
@@ -119,13 +118,13 @@ registration:
     text: How often do you usually make notes when studying? 0 - Never, 5 - Always
     response_type: scale
   -
-  	id: 4
+    id: 4
     text:  Do you take notes using pen and paper or electronically?
     response_type: boolean
   -
-  	id: 5
+    id: 5
     text: Do you normally share notes with others? 0 - Never, 5 - Always
-	response_type: scale
+    response_type: scale
   -
     id: 6
     text: Which service, if any, do you use to share pictures and who owns the rights to these images once they’ve been posted?
