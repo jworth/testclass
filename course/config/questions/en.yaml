@@ -133,7 +133,6 @@ registration:
     id: 7
     text: What copyright license, if any, would you usually use? (e.g. All Rights Reserved, CC BY, CC BY-SA, CC BY-ND, CC BY-NC, CC BY-NC-SA, CC BY-NC-ND)
     response_type: text
-during:
   -
     id: 8
     text: How often do you do further research around an image or the story to which it relates? 0 - Never, 5 - Always)
@@ -142,6 +141,8 @@ during:
     id: 9
     text: How often do you include descriptive captions with your images? 0 - Never, 5 - Always
     response_type: scale
+during:
+
 post:
   -
     id: 10
