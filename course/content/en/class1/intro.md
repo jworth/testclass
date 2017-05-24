@@ -3,7 +3,9 @@ published: true
 content_type: pre
 optional: false
 title: Introduction to Week 1
-description: This week we are finding out about evidence in photography
+description: >-
+  This week we are finding out about evidence in photography. Click explore to
+  find out how to prepare your first Four Corners submission.
 expectsubmission: true
 ---
 # Week 1 - Evidence
