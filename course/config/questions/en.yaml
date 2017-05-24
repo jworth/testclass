@@ -142,9 +142,29 @@ registration:
     text: How often do you include descriptive captions with your images? 0 - Never, 5 - Always
     response_type: scale
 during:
+  -
+    id: 10
+    text: How often have you contributed to a shared online document, such as a Google Doc? 0 - Never, 5 - Everyday)
+    response_type: scale
+  -
+    id: 11
+    text: Prior to this course, how often have you engaged in live online discussion around an event (radio show, tv program, sports event or webinar)? 0 - Never, 1 - Everyday
+    response_type: scale
+  - 
+    id: 12
+    text: How many online courses have you taken?
+    response_type: scale
+  -
+    id: 13
+    text: Are you normally more motivated/engaged in courses where there is a graded assessment at the end, or ones that focus on assignment/projects?
+    response_type: boolean
+  - 
+    id: 14
+    text: Would you be interested in a certificate of attendance? Would you prefer if that certificate were graded?
+    response_type: boolean
 
 post:
   -
-    id: 10
+    id: 15
     text: How long did you take to listen to this class?
     response_type: scale
