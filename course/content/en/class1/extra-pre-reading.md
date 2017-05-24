@@ -4,7 +4,7 @@ content_type: pre
 optional: true
 title: Extra Pre-Reading
 description: Example Four Corners images to help you understand evidence.
-expectsubmission: true
+expectsubmission: false
 ---
 
 
