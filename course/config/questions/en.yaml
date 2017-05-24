@@ -126,7 +126,7 @@ registration:
   	id: 5
     text: Do you normally share notes with others? 0 - Never, 5 - Always
 	response_type: scale
--
+  -
     id: 6
     text: Which service, if any, do you use to share pictures and who owns the rights to these images once they’ve been posted?
     response_type: text
