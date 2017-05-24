@@ -105,37 +105,46 @@ release: >-
   These Terms of Use were last updated on 24th April 2017.
 
 registration:
+
   -
     id: 1
-    text: How often do you watch or listen to any kind of video or podcast online? (Never, once a year, once a month, every week, everyday?)
+    text: Summerise your thoughts on about online courses? Do you prefer them over traditional lectures?
     response_type: text
   -
     id: 2
-    text: Prior to this course, have you ever engaged in live online discussion around an event (radio show, tv program, sports event or webinar)? (Never, once a year, once a month, every week, everyday?)
+    text: Do you prefer a learning setting where you get information delivered by an expert, or do you prefer it to be more discussion-based?
     response_type: text
   - 
     id: 3
-    text: How many online courses have you taken?
+    text: How often do you usually make notes when studying? 0 - Never, 5 - Always
     response_type: scale
   -
-    id: 4
-    text: What do you think about online courses? Do you prefer them over traditional lectures?
+  	id: 4
+    text:  Do you take notes using pen and paper or electronically?
     response_type: boolean
+  -
+  	id: 5
+    text: Do you normally share notes with others? 0 - Never, 5 - Always
+	response_type: scale
+-
+    id: 6
+    text: Which service, if any, do you use to share pictures and who owns the rights to these images once they’ve been posted?
+    response_type: text
   - 
-    id: 5
-    text: When learning, do you prefer a lecture setting where you get delivered information by an expert or do you prefer it to be more discussion-based ?
+    id: 7
+    text: What copyright license, if any, would you usually use? (e.g. All Rights Reserved, CC BY, CC BY-SA, CC BY-ND, CC BY-NC, CC BY-NC-SA, CC BY-NC-ND)
     response_type: text
 during:
   -
-    id: 6
-    text: How long did you take to listen to this class?
+    id: 8
+    text: How often do you do further research around an image or the story to which it relates? 0 - Never, 5 - Always)
     response_type: scale
   - 
-    id: 8
-    text: When learning, do you prefer a lecture setting where you get delivered information by an expert
+    id: 9
+    text: How often do you include descriptive captions with your images? 0 - Never, 5 - Always
     response_type: scale
 post:
   -
-    id: 7
+    id: 10
     text: How long did you take to listen to this class?
     response_type: scale
