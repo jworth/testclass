@@ -4,8 +4,16 @@ content_type: pre
 optional: false
 title: Introduction to Week 1
 description: >-
-  This week we are finding out about evidence in photography. Click explore to
-  find out how to prepare your first Four Corners submission.
+  Welcome to the first installment of **Talking Pictures**, a new kind of
+  socially driven online course.
+
+  This week we are finding out about the importance evidence in photography, and
+  the role it plays in our decisions as photographers and consumers of media.
+
+  Before the first "live class" starts, you should read the preparation material
+  and submit your first Four Corners image. You can then get peer feedback and
+  join discussion about your submission before the live class starts later in
+  the week.
 expectsubmission: true
 ---
 # Week 1 - Evidence
