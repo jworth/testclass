@@ -16,6 +16,7 @@ classes:
         url: intro.md
         slug: intro
       -
+        slug: question1
         content_type: question
       -
         url: extra-pre-reading.md
@@ -29,6 +30,7 @@ classes:
             leadhub: true
             hub_id: "ams"
       -
+        slug: question2
         content_type: question
       -
         url: extended.md
@@ -37,6 +39,7 @@ classes:
         url: deepdive.md
         slug: deepdive
       -
+        slug: question3
         content_type: question
       -
         url: webinar.md
@@ -57,6 +60,7 @@ classes:
         url: intro.md
         slug: intro
       -
+        slug: question1
         content_type: question
       -
         url: extra-pre-reading.md
@@ -70,6 +74,7 @@ classes:
             leadhub: true
             hub_id: "ams"
       -
+        slug: question2
         content_type: question
       -
         url: extended.md
@@ -78,6 +83,7 @@ classes:
         url: deepdive.md
         slug: deepdive
       -
+        slug: question3
         content_type: question
       -
         url: webinar.md
@@ -98,6 +104,7 @@ classes:
         url: intro.md
         slug: intro
       -
+        slug: question1
         content_type: question
       -
         url: extra-pre-reading.md
@@ -111,6 +118,7 @@ classes:
             leadhub: true
             hub_id: "ams"
       -
+        slug: question2
         content_type: question
       -
         url: extended.md
@@ -119,6 +127,7 @@ classes:
         url: deepdive.md
         slug: deepdive
       -
+        slug: question3
         content_type: question
       -
         url: webinar.md
@@ -139,6 +148,7 @@ classes:
         url: intro.md
         slug: intro
       -
+        slug: question1 
         content_type: question
       -
         url: extra-pre-reading.md
@@ -152,6 +162,7 @@ classes:
             leadhub: true
             hub_id: "ams"
       -
+        slug: question2
         content_type: question
       -
         url: extended.md
@@ -160,6 +171,7 @@ classes:
         url: deepdive.md
         slug: deepdive
       -
+        slug: question3
         content_type: question
       -
         url: webinar.md
@@ -180,6 +192,7 @@ classes:
         url: intro.md
         slug: intro
       -
+        slug: question1
         content_type: question
       -
         url: extra-pre-reading.md
@@ -193,6 +206,7 @@ classes:
             leadhub: true
             hub_id: "ams"
       -
+        slug: question2
         content_type: question
       -
         url: extended.md
@@ -201,6 +215,7 @@ classes:
         url: deepdive.md
         slug: deepdive
       -
+        slug: question3
         content_type: question
       -
         url: webinar.md
@@ -221,6 +236,7 @@ classes:
         url: intro.md
         slug: intro
       -
+        slug: question1
         content_type: question
       -
         url: extra-pre-reading.md
@@ -234,6 +250,7 @@ classes:
             leadhub: true
             hub_id: "ams"
       -
+        slug: question2
         content_type: question
       -
         url: extended.md
@@ -242,6 +259,7 @@ classes:
         url: deepdive.md
         slug: deepdive
       -
+        slug: question3
         content_type: question
       -
         url: webinar.md
