@@ -6,7 +6,7 @@ title: Introduction to Week 2
 description: This week we are finding out about evidence in photography
 expectsubmission: true
 ---
-# Week 1 - Evidence
+# Week 2 - Interpretation
 
 How do we as photographers tell the story of a subject that is missing? How might one tell the story of loss, of the deceased, the invisible?
 
