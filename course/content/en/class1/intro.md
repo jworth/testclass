@@ -11,9 +11,9 @@ description: >-
   the role it plays in our decisions as photographers and consumers of media.
 
   Before the first "live class" starts, you should read the preparation material
-  and submit your first Four Corners image. You can then get peer feedback and
-  join discussion about your submission before the live class starts later in
-  the week.
+  and submit your first __Four Corners__ image. You can then get peer feedback
+  and join discussion about your submission before the live class starts later
+  in the week.
 expectsubmission: true
 ---
 # Week 1 - Evidence
