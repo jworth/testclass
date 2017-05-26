@@ -8,3 +8,4 @@ description: >-
   Extended interviews and commentary from Dalia Khamissy, Dhalia interviews,
   Benjamin Chesterton and Saree Makdisi
 ---
+@[submission]({"type": "fourcorners", "class": "evidence", "content": "extended"})
