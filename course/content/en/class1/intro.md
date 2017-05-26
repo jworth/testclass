@@ -33,4 +33,4 @@ Follow [the instructions](/fourcorners.md) to create and upload your submission.
 
 **Put the link to your submission here**
 
-@[submission](fourcorners, evidence, intro)
+@[submission]({type: 'fourcorners', class: 'evidence', content: 'intro'})
