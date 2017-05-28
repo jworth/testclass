@@ -22,7 +22,7 @@ _Key words: grief, civil war, family, loss, trauma, absence, testimony_
 
 
 
-<img src="/course/content/media/week1-picture2.jpg" data-4c="51d37272-832f-a854-c46d-27df1de5deb2" />
+<img src="{{site.baseurl}}/course/content/media/week1-picture2.jpg" data-4c="51d37272-832f-a854-c46d-27df1de5deb2" />
 
 **James Nachtwey, 1995**
 
@@ -35,7 +35,7 @@ _
 
 
 
-<img src="/course/content/media/week1-picture3.jpg" data-4c="aa41a988-e13a-99d9-7c69-a17c3b4b4061" />
+<img src="{{site.baseurl}}/course/content/media/week1-picture3.jpg" data-4c="aa41a988-e13a-99d9-7c69-a17c3b4b4061" />
 
 **Robin Moyer, 1982**
 
@@ -48,7 +48,7 @@ _Lebanon civil war, evidence, killings, war photography, spot news, massacres_
 </script>
 
 
-<img src="/course/content/media/week1-picture4.jpg" data-4c="1f532292-44e3-3640-23ce-5a911a55edfa" />
+<img src="{{site.baseurl}}/course/content/media/week1-picture4.jpg" data-4c="1f532292-44e3-3640-23ce-5a911a55edfa" />
 
 **John Stanmeyer, 2014**
 
@@ -61,7 +61,7 @@ _absence, relatives, missing, displacement, refugees, social link_
 </script>
 
 
-<img src="/course/content/media/week1-picture5.jpg" data-4c="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620" />
+<img src="{{site.baseurl}}/course/content/media/week1-picture5.jpg" data-4c="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620" />
 
 **Françoise Demulder, 1977 (first female winner of WPP)**
 
