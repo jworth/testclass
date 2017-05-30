@@ -2,7 +2,7 @@
 published: true
 content_type: pre
 optional: false
-title: Introduction to Week 2
+title: Introduction to Class 2 - Interpretation
 description: >-
   Welcome to the second installment of Talking Pictures, a new kind of socially
   driven online course. This week we are finding out about interpretation in
@@ -13,7 +13,7 @@ description: >-
   class starts later in the week.
 expectsubmission: true
 ---
-# Week 2 - Interpretation
+# Class 2 - Interpretation
 
 How do we as photographers tell the story of a subject that is missing? How might one tell the story of loss, of the deceased, the invisible?
 
