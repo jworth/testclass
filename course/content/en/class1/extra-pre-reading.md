@@ -3,7 +3,10 @@ published: true
 content_type: pre
 optional: true
 title: Extra Pre-Reading
-description: Example Four Corners images to help you understand evidence.
+description: >-
+  We have selected 5 key photographs from the World Press Photo Foundation
+  archive and made them into Four Corners images to demonstrate how to use
+  evidence as part of your work. Check them out.
 expectsubmission: false
 ---
 
