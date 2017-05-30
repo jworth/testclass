@@ -2,7 +2,7 @@
 published: true
 content_type: pre
 optional: false
-title: Introduction to Week 1
+title: Introduction to Class 1 - Evidence
 description: >-
   Welcome to the first installment of **Talking Pictures**, a new kind of
   socially driven online course. This week we are finding out about the
