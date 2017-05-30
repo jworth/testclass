@@ -3,7 +3,10 @@ published: true
 content_type: pre
 optional: true
 title: Extra Pre-Reading
-description: Example Four Corners images to help you understand evidence.
+description: >-
+  We have selected 5 key photographs from the World Press Photo Foundation
+  archive and made them into Four Corners images to demonstrate how to use
+  evidence as part of your work. Check them out.
 expectsubmission: false
 ---
 Those images from the World Press Photo’s archive relate to Module 2: interpretation. We’ve chosen five images that addresses similar themes than Isadora's long term project dealing with community, family, relationships, societal stigmatisation, love, loss, intimacy and trust. With her project, Isadora challenges societal stereotypes of how we understand and represent juvenile incarceration. She chooses to focus on the relationships of her subjects, their vulnerability, their love, their everyday life, in summary, what makes them human. Sometimes the most powerful stories are the ones depicting the everyday life of our families and communities. Stories that address themes that we all understand and relate to such as family and love. Isadora is offering us a beautiful and intimate connection into the lives of a family that is going through hardship and loss but also hope and resilience.  
