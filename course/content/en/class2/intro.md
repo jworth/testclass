@@ -3,7 +3,14 @@ published: true
 content_type: pre
 optional: false
 title: Introduction to Week 2
-description: This week we are finding out about evidence in photography
+description: >-
+  Welcome to the second installment of Talking Pictures, a new kind of socially
+  driven online course. This week we are finding out about interpretation in
+  photography, and the role it plays in our decisions as photographers and
+  consumers of media. Before the "live class" starts, you should read the
+  preparation material and submit your first Four Corners image. You can then
+  get peer feedback and join discussion about your submission before the live
+  class starts later in the week.
 expectsubmission: true
 ---
 # Week 2 - Interpretation
