@@ -8,15 +8,19 @@ description: >-
   Extended interviews and commentary from Dalia Khamissy, Dhalia interviews,
   Benjamin Chesterton and Saree Makdisi
 ---
-# Additional Watching
+Here is some more audio to frame your work this week:
 
-How do we as photographers tell the story of a subject that is missing? How might one tell the story of loss, of the deceased, the invisible?
+## Benjamin Chesterton
 
-How might these images constitute or inform a body of evidence?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2o5eOB48NAg" frameborder="0" allowfullscreen></iframe>
 
-How might they and we, be believed?
+## Dalia Khamissy
 
-What role does trust have, and how do we as storytellers gain that trust and imbue our work with it?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XpTzryaGKR0" frameborder="0" allowfullscreen></iframe>
+
+## Saree Makdisi
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hvfXO30YX1I" frameborder="0" allowfullscreen></iframe>
 
 ----
 
