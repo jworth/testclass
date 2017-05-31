@@ -5,8 +5,9 @@ optional: true
 expectsubmission: true
 title: Additional Watching
 description: >-
-  Extended interviews and commentary from Dalia Khamissy, Dhalia interviews,
-  Benjamin Chesterton and Saree Makdisi
+  Extended interviews and commentary from *Dalia Khamissy*, *Benjamin
+  Chesterton* and *Saree Makdisi* as well as instructions on submitting your
+  next *Four Corners* image.
 ---
 Here is some more audio to frame your work this week:
 
