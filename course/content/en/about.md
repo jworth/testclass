@@ -9,7 +9,7 @@ expectsubmission: false
 
 Connected Academy is an online, socially driven learning platform developed by a team of educators and researchers.
 
-**“Talking Pictures”** is an open course in critical visual storytelling and a PhD research project. 
+**"Talking Pictures"** is an open course in critical visual storytelling and a PhD research project. 
 
 The paedagogy has been designed by Jonathan Worth, Open Lab, Newcastle University, UK, and is run in association with
 - World Press Photo Foundation
