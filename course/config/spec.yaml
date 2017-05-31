@@ -33,11 +33,11 @@ classes:
         slug: question2
         content_type: question
       -
-        url: extended.md
-        slug: extended
-      -
         url: deepdive.md
         slug: deepdive
+      -
+        url: extended.md
+        slug: extended
       -
         slug: question3
         content_type: question
