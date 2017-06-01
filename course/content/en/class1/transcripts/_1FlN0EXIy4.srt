@@ -1,0 +1,2279 @@
+1
+00:00:01,340 --> 00:00:02,660
+Hello I'm Jonathan from the Connected
+
+2
+00:00:02,660 --> 00:00:04,759
+Academy. 'Talking Pictures' critical
+
+3
+00:00:04,759 --> 00:00:06,529
+engagement with visual storytelling is
+
+4
+00:00:06,529 --> 00:00:08,180
+brought to you in association with the
+
+5
+00:00:08,180 --> 00:00:12,110
+World Press Photo Foundation. This week's
+
+6
+00:00:12,110 --> 00:00:13,340
+conversation is between the Lebanese
+
+7
+00:00:13,340 --> 00:00:15,170
+photographer Dalia Khamissy and
+
+8
+00:00:15,170 --> 00:00:17,720
+subjects for her project 'The Missing'. The
+
+9
+00:00:17,720 --> 00:00:19,279
+audience perspective is provided by a
+
+10
+00:00:19,279 --> 00:00:22,010
+filmmaker Benjamin Chesterton. Additional
+
+11
+00:00:22,010 --> 00:00:23,990
+historical context is provided by Saree
+
+12
+00:00:23,990 --> 00:00:25,760
+Makdisi, professor of English and
+
+13
+00:00:25,760 --> 00:00:27,710
+Comparative Literature at the University
+
+14
+00:00:27,710 --> 00:00:30,140
+of California, Los Angeles. So on one
+
+15
+00:00:30,140 --> 00:00:31,550
+level we have a photographer and
+
+16
+00:00:31,550 --> 00:00:33,229
+journalist who spent multiple years
+
+17
+00:00:33,229 --> 00:00:34,850
+making an oral history and visual
+
+18
+00:00:34,850 --> 00:00:37,010
+document of people who've lost family
+
+19
+00:00:37,010 --> 00:00:38,980
+members to a war that started 40 years
+
+20
+00:00:38,980 --> 00:00:41,300
+ago and probably a million miles away
+
+21
+00:00:41,300 --> 00:00:44,749
+from you are now. So I can imagine that
+
+22
+00:00:44,749 --> 00:00:46,459
+maybe you're thinking what does that got
+
+23
+00:00:46,459 --> 00:00:48,319
+to do with me? Well, to be honest I don't
+
+24
+00:00:48,319 --> 00:00:51,619
+I don't really know but maybe if we
+
+25
+00:00:51,619 --> 00:00:52,850
+think about it slightly differently
+
+26
+00:00:52,850 --> 00:00:54,799
+there are some jumping-off points for
+
+27
+00:00:54,799 --> 00:00:56,600
+you to go and discuss in the connected
+
+28
+00:00:56,600 --> 00:00:58,399
+notes which is kind of the point the
+
+29
+00:00:58,399 --> 00:01:00,529
+content we provide today is a starting
+
+30
+00:01:00,529 --> 00:01:02,179
+point for this conversation it's not the
+
+31
+00:01:02,179 --> 00:01:02,829
+end.
+
+32
+00:01:02,829 --> 00:01:05,299
+Thinking in particular about themes like
+
+33
+00:01:05,299 --> 00:01:10,280
+time, evidence, vulnerability, trust and
+
+34
+00:01:10,280 --> 00:01:13,189
+responsibility there are three areas I
+
+35
+00:01:13,189 --> 00:01:14,920
+find fascinating about this interview:
+
+36
+00:01:14,920 --> 00:01:18,820
+one, what exactly is it that she's making?
+
+37
+00:01:18,820 --> 00:01:23,259
+two, her approach to making it and three,
+
+38
+00:01:23,259 --> 00:01:26,630
+what will it eventually come to me? Now, I
+
+39
+00:01:26,630 --> 00:01:27,530
+don't have answers for those questions.
+
+40
+00:01:27,530 --> 00:01:29,719
+I've got a few observations and I've got
+
+41
+00:01:29,719 --> 00:01:33,740
+a few ideas but I don't have answers. So
+
+42
+00:01:33,740 --> 00:01:34,939
+if I describe it slightly differently
+
+43
+00:01:34,939 --> 00:01:37,520
+then, you're about to listen to a female
+
+44
+00:01:37,520 --> 00:01:39,530
+Lebanese photographer who only ever knew
+
+45
+00:01:39,530 --> 00:01:42,530
+war growing up. She became a photo editor
+
+46
+00:01:42,530 --> 00:01:44,329
+but burnt out through the effects of
+
+47
+00:01:44,329 --> 00:01:46,399
+looking at an unending stream of images
+
+48
+00:01:46,399 --> 00:01:48,609
+of war and its effects on her own people.
+
+49
+00:01:48,609 --> 00:01:50,630
+You'll hear how she made peace with
+
+50
+00:01:50,630 --> 00:01:52,340
+photography again and then when the war
+
+51
+00:01:52,340 --> 00:01:54,350
+ended and the journalists left, their work
+
+52
+00:01:54,350 --> 00:01:57,939
+done, she began to make her body of work.
+
+53
+00:01:57,939 --> 00:02:00,319
+It's a series of portraits of people
+
+54
+00:02:00,319 --> 00:02:02,990
+like yourself who are left behind. Each
+
+55
+00:02:02,990 --> 00:02:04,939
+one in a way I'm thinking of as an
+
+56
+00:02:04,939 --> 00:02:07,159
+archivist, archivists of the scant
+
+57
+00:02:07,159 --> 00:02:09,049
+belongings of the people who didn't come
+
+58
+00:02:09,049 --> 00:02:11,569
+back. Each one provides another testament
+
+59
+00:02:11,569 --> 00:02:13,370
+for their loved one and the ages of
+
+60
+00:02:13,370 --> 00:02:14,190
+these people remind us
+
+61
+00:02:14,190 --> 00:02:16,800
+- that well one can imagine a time not
+
+62
+00:02:16,800 --> 00:02:18,990
+far from now when all that will remain
+
+63
+00:02:18,990 --> 00:02:21,720
+of their stories will be Dalia's project,
+
+64
+00:02:21,720 --> 00:02:24,990
+'The Missing'. And you have a male English
+
+65
+00:02:24,990 --> 00:02:26,760
+ex-radio producer who doesn't speak
+
+66
+00:02:26,760 --> 00:02:28,500
+Arabic and who has to produce two
+
+67
+00:02:28,500 --> 00:02:30,330
+different versions of her project for
+
+68
+00:02:30,330 --> 00:02:32,520
+radio and web audiences over a very
+
+69
+00:02:32,520 --> 00:02:34,350
+short space of time with all its
+
+70
+00:02:34,350 --> 00:02:37,020
+inherent difficulties. And of course
+
+71
+00:02:37,020 --> 00:02:38,160
+you're going to hear from the people
+
+72
+00:02:38,160 --> 00:02:39,660
+whose stories they're both trying to
+
+73
+00:02:39,660 --> 00:02:41,610
+tell and exactly what that feels like
+
+74
+00:02:41,610 --> 00:02:46,740
+both then and now. Don't forget, make your
+
+75
+00:02:46,740 --> 00:02:48,630
+notes in the platform, that's where the
+
+76
+00:02:48,630 --> 00:02:50,790
+value is and don't complain if people
+
+77
+00:02:50,790 --> 00:02:52,200
+then comment back on your notes if you
+
+78
+00:02:52,200 --> 00:02:53,430
+don't comment on theirs. They're like
+
+79
+00:02:53,430 --> 00:02:55,200
+Valentine's cards, if you don't send them
+
+80
+00:02:55,200 --> 00:02:58,070
+don't expect to get them.
+
+81
+00:02:59,700 --> 00:03:02,050
+Marhabaan,
+
+82
+00:03:02,050 --> 00:03:04,150
+my name is Dalia Khamissy and I'm a
+
+83
+00:03:04,150 --> 00:03:07,110
+photographer based in Beirut, Lebanon.
+
+84
+00:03:07,110 --> 00:03:10,330
+Since 2010, I have been working on the
+
+85
+00:03:10,330 --> 00:03:12,970
+estimated 17,000 missing and forcibly
+
+86
+00:03:12,970 --> 00:03:17,380
+disappeared from the 1975 to 1990 Lebanese
+
+87
+00:03:17,380 --> 00:03:24,010
+civil war. The victims were from
+
+88
+00:03:24,010 --> 00:03:25,390
+different political and religious
+
+89
+00:03:25,390 --> 00:03:27,550
+backgrounds, they came from all parts of
+
+90
+00:03:27,550 --> 00:03:30,940
+Lebanon and they were of all ages. The
+
+91
+00:03:30,940 --> 00:03:32,500
+kidnappers did not differentiate
+
+92
+00:03:32,500 --> 00:03:42,550
+between men or women at that time. But
+
+93
+00:03:42,550 --> 00:03:44,140
+The Missing was not exactly the first
+
+94
+00:03:44,140 --> 00:03:46,270
+project I did on the aftermath of wars
+
+95
+00:03:46,270 --> 00:03:51,730
+that I lived. In the summer of 2006, I
+
+96
+00:03:51,730 --> 00:03:53,440
+witnessed the terrible Israeli
+
+97
+00:03:53,440 --> 00:03:55,630
+aggression on Lebanon as I was working
+
+98
+00:03:55,630 --> 00:03:59,110
+for The Associated Press in its office
+
+99
+00:03:59,110 --> 00:04:02,820
+in Beirut as a photo editor.
+
+100
+00:04:21,790 --> 00:04:25,750
+A year later, I went to the South of
+
+101
+00:04:25,750 --> 00:04:27,700
+Lebanon, the area that suffered the most
+
+102
+00:04:27,700 --> 00:04:31,390
+during the 2006 war and it was heavily
+
+103
+00:04:31,390 --> 00:04:36,220
+bombarded. I had seen those images during
+
+104
+00:04:36,220 --> 00:04:39,910
+the 2006 war but I had not seen them
+
+105
+00:04:39,910 --> 00:04:44,200
+through my eyes since then. That day I
+
+106
+00:04:44,200 --> 00:04:46,690
+had my camera with me and I entered
+
+107
+00:04:46,690 --> 00:04:49,260
+homes that were destroyed and abandoned.
+
+108
+00:04:49,260 --> 00:04:52,720
+What really shocked me was how much the
+
+109
+00:04:52,720 --> 00:04:55,540
+private homes of people had become
+
+110
+00:04:55,540 --> 00:04:58,690
+public. Anyone could enter them because
+
+111
+00:04:58,690 --> 00:05:01,140
+there were no more doors anymore and
+
+112
+00:05:01,140 --> 00:05:04,780
+obviously no more inhabitants. On the
+
+113
+00:05:04,780 --> 00:05:07,630
+floors lay clothes of those who lived
+
+114
+00:05:07,630 --> 00:05:08,230
+there
+
+115
+00:05:08,230 --> 00:05:11,430
+sometimes photographs, belongings, keys.
+
+116
+00:05:11,430 --> 00:05:13,780
+Even though there were no people to
+
+117
+00:05:13,780 --> 00:05:16,390
+photograph I said that those houses told
+
+118
+00:05:16,390 --> 00:05:20,040
+the stories of their owners. Those spaces
+
+119
+00:05:20,040 --> 00:05:23,230
+reminded me of how much my life turned
+
+120
+00:05:23,230 --> 00:05:26,700
+into public during the war.
+
+121
+00:05:28,590 --> 00:05:31,800
+I have no personal life back then, my
+
+122
+00:05:31,800 --> 00:05:35,460
+private one was like dead. As a photo
+
+123
+00:05:35,460 --> 00:05:38,100
+editor my phone was ranking constantly,
+
+124
+00:05:38,100 --> 00:05:41,910
+starting as early as 5 or 6 a.m,
+
+125
+00:05:41,910 --> 00:05:45,840
+sometimes until hours after midnight, my
+
+126
+00:05:45,840 --> 00:05:47,700
+computer screen was full of messages
+
+127
+00:05:47,700 --> 00:05:50,310
+from everybody requesting photographs
+
+128
+00:05:50,310 --> 00:05:53,700
+from all AP offices, like all over
+
+129
+00:05:53,700 --> 00:05:54,390
+the world.
+
+130
+00:05:54,390 --> 00:05:57,180
+I had to stare at photographs on the
+
+131
+00:05:57,180 --> 00:06:00,860
+computer screen every day for 34 days.
+
+132
+00:06:00,860 --> 00:06:03,570
+Images of the injured, the dead, the
+
+133
+00:06:03,570 --> 00:06:06,450
+destruction, people crying the death of
+
+134
+00:06:06,450 --> 00:06:08,090
+their loved ones,
+
+135
+00:06:08,090 --> 00:06:10,380
+heartbreaking photographs of people I
+
+136
+00:06:10,380 --> 00:06:13,860
+related to. The war had forcibly turned
+
+137
+00:06:13,860 --> 00:06:16,680
+my life from private to a public one, the
+
+138
+00:06:16,680 --> 00:06:20,480
+same as for those spaces.
+
+139
+00:06:31,060 --> 00:06:35,480
+So I took photographs of few houses and
+
+140
+00:06:35,480 --> 00:06:40,010
+I then formed a series of photographs
+
+141
+00:06:40,010 --> 00:06:47,060
+that I titled 'Abandoned spaces'. I only
+
+142
+00:06:47,060 --> 00:06:50,300
+shot that over a few days but I felt it
+
+143
+00:06:50,300 --> 00:06:52,040
+was my way of reconciling with
+
+144
+00:06:52,040 --> 00:06:56,360
+photography. After that project I started
+
+145
+00:06:56,360 --> 00:06:58,100
+working on the Lebanese issues,
+
+146
+00:06:58,100 --> 00:07:00,230
+especially those related to women's rights,
+
+147
+00:07:00,230 --> 00:07:02,900
+until I decided to start researching the
+
+148
+00:07:02,900 --> 00:07:11,840
+subject of the missing. Saree Makdisi,
+
+149
+00:07:11,840 --> 00:07:13,430
+professor of English and Comparative
+
+150
+00:07:13,430 --> 00:07:15,140
+Literature at the University of
+
+151
+00:07:15,140 --> 00:07:19,190
+California, Los Angeles. The Lebanese
+
+152
+00:07:19,190 --> 00:07:21,980
+civil war began in 1975 and ended in
+
+153
+00:07:21,980 --> 00:07:25,520
+1990. It was a war over the distribution
+
+154
+00:07:25,520 --> 00:07:27,350
+of power among it between different
+
+155
+00:07:27,350 --> 00:07:29,180
+sectarian groups in the country or
+
+156
+00:07:29,180 --> 00:07:31,460
+really more specifically the
+
+157
+00:07:31,460 --> 00:07:33,320
+distribution of power among the elites
+
+158
+00:07:33,320 --> 00:07:36,890
+of different sectarian groups. The
+
+159
+00:07:36,890 --> 00:07:39,020
+principal axis of tension in the war was
+
+160
+00:07:39,020 --> 00:07:40,970
+between those who wanted to maintain the
+
+161
+00:07:40,970 --> 00:07:43,130
+older system of Maronite hegemony, the
+
+162
+00:07:43,130 --> 00:07:45,770
+privileged Maronite Catholic elites and
+
+163
+00:07:45,770 --> 00:07:47,540
+those who wanted to make the political
+
+164
+00:07:47,540 --> 00:07:49,690
+system more representative of and
+
+165
+00:07:49,690 --> 00:07:51,830
+accountable to the population of the
+
+166
+00:07:51,830 --> 00:07:52,580
+entire country.
+
+167
+00:07:52,580 --> 00:07:54,620
+So although it's often depicted as a
+
+168
+00:07:54,620 --> 00:07:57,050
+religious war or war over religion or
+
+169
+00:07:57,050 --> 00:07:59,210
+even a war between religious communities
+
+170
+00:07:59,210 --> 00:08:02,090
+or sects, it really was a struggle over
+
+171
+00:08:02,090 --> 00:08:04,360
+the distribution of power.
+
+172
+00:08:04,360 --> 00:08:07,070
+Despite this, fighting and displacement
+
+173
+00:08:07,070 --> 00:08:09,350
+of population did often blend into
+
+174
+00:08:09,350 --> 00:08:11,300
+tensions between different sectarian
+
+175
+00:08:11,300 --> 00:08:13,370
+communities and at times degenerated
+
+176
+00:08:13,370 --> 00:08:16,670
+into blind inter-communal violence. On
+
+177
+00:08:16,670 --> 00:08:19,250
+top of killed and injured there were
+
+178
+00:08:19,250 --> 00:08:22,100
+thousands of kidnappings that took place
+
+179
+00:08:22,100 --> 00:08:24,890
+during the war. The kidnappings were
+
+180
+00:08:24,890 --> 00:08:27,610
+often done on the basis of one's
+
+181
+00:08:27,610 --> 00:08:31,010
+communal or religious identity because
+
+182
+00:08:31,010 --> 00:08:33,229
+Lebanese identity documents officially
+
+183
+00:08:33,229 --> 00:08:35,870
+list your religion if you're caught by
+
+184
+00:08:35,870 --> 00:08:38,690
+the wrong kind of party and you have the
+
+185
+00:08:38,690 --> 00:08:39,390
+wrong kind of ID,
+
+186
+00:08:39,390 --> 00:08:40,830
+you could be in trouble and that
+
+187
+00:08:40,830 --> 00:08:42,860
+happened a lot of people during the war.
+
+188
+00:08:42,860 --> 00:08:46,020
+The kidnappings were sometimes for
+
+189
+00:08:46,020 --> 00:08:46,950
+ransom,
+
+190
+00:08:46,950 --> 00:08:49,470
+sometimes for murder, sometimes for
+
+191
+00:08:49,470 --> 00:08:51,840
+execution and torture, sometimes for
+
+192
+00:08:51,840 --> 00:08:53,880
+reprisal, sometimes for vengeance and sometimes
+
+193
+00:08:53,880 --> 00:08:56,430
+for personal vendettas. So it's not clear
+
+194
+00:08:56,430 --> 00:08:58,400
+necessarily why somebody's kidnapped,
+
+195
+00:08:58,400 --> 00:09:01,110
+very often people would disappear and
+
+196
+00:09:01,110 --> 00:09:02,130
+that would be that nobody would know
+
+197
+00:09:02,130 --> 00:09:04,860
+what happens to them. Everybody knows
+
+198
+00:09:04,860 --> 00:09:06,960
+somebody who was kidnapped. I personally
+
+199
+00:09:06,960 --> 00:09:08,970
+know a neighbor of ours who was
+
+200
+00:09:08,970 --> 00:09:10,770
+kidnapped and then held for a few days
+
+201
+00:09:10,770 --> 00:09:12,990
+and then released. I have a relative who
+
+202
+00:09:12,990 --> 00:09:15,690
+was kidnapped and released I think the
+
+203
+00:09:15,690 --> 00:09:18,450
+same day and one of my closest childhood
+
+204
+00:09:18,450 --> 00:09:20,400
+friends was kidnapped with his parents
+
+205
+00:09:20,400 --> 00:09:24,600
+and never heard from again. And of course
+
+206
+00:09:24,600 --> 00:09:26,550
+there's a big difference between killed
+
+207
+00:09:26,550 --> 00:09:28,170
+and wounded and those who had
+
+208
+00:09:28,170 --> 00:09:30,600
+disappeared because killed or wounded I
+
+209
+00:09:30,600 --> 00:09:32,700
+mean awful as that is of course for the
+
+210
+00:09:32,700 --> 00:09:34,200
+people themselves and for their families
+
+211
+00:09:34,200 --> 00:09:36,180
+and friends and so forth at least you
+
+212
+00:09:36,180 --> 00:09:38,680
+know what happened, whereas people who
+
+213
+00:09:38,680 --> 00:09:40,800
+disappear you don't know what
+
+214
+00:09:40,800 --> 00:09:42,450
+happens to them so there's no closure,
+
+215
+00:09:42,450 --> 00:09:45,860
+there's no resolution for the trauma.
+
+216
+00:09:45,860 --> 00:09:48,240
+It's important to point out that those
+
+217
+00:09:48,240 --> 00:09:49,950
+responsible for the kidnappings for the
+
+218
+00:09:49,950 --> 00:09:53,220
+most part remain very close to power in
+
+219
+00:09:53,220 --> 00:09:55,380
+Lebanon given the country's amnesty law.
+
+220
+00:09:55,380 --> 00:09:57,810
+Right after the war, they've been
+
+221
+00:09:57,810 --> 00:09:59,910
+absolved of guilt and responsibility and
+
+222
+00:09:59,910 --> 00:10:01,620
+there has never been a kind of inquest or a
+
+223
+00:10:01,620 --> 00:10:02,460
+sort of Truth and Reconciliation
+
+224
+00:10:02,460 --> 00:10:05,640
+committee and certainly nobody's been
+
+225
+00:10:05,640 --> 00:10:06,990
+held accountable for the crimes they
+
+226
+00:10:06,990 --> 00:10:09,260
+committed during the war so basically
+
+227
+00:10:09,260 --> 00:10:12,330
+the fates of those that disappeared in
+
+228
+00:10:12,330 --> 00:10:16,370
+the war has never been resolved.
+
+229
+00:10:21,240 --> 00:10:24,970
+During the war of 2006, many
+
+230
+00:10:24,970 --> 00:10:26,860
+international photographers and
+
+231
+00:10:26,860 --> 00:10:29,470
+journalists came to Lebanon to cover the
+
+232
+00:10:29,470 --> 00:10:32,589
+event. The country was full of foreign
+
+233
+00:10:32,589 --> 00:10:36,160
+press. The war lasted for 34 days and the
+
+234
+00:10:36,160 --> 00:10:38,019
+press was doing a superb work, like a
+
+235
+00:10:38,019 --> 00:10:41,199
+super work covering the direct events,
+
+236
+00:10:41,199 --> 00:10:45,009
+the bombardment, tires??, something I could
+
+237
+00:10:45,009 --> 00:10:48,009
+have never done. When the ceasefire was
+
+238
+00:10:48,009 --> 00:10:51,040
+agreed on in August 14, the media kept
+
+239
+00:10:51,040 --> 00:10:53,439
+documenting the direct aftermath for few
+
+240
+00:10:53,439 --> 00:10:55,540
+weeks before the country was empty again
+
+241
+00:10:55,540 --> 00:10:59,259
+and the people who were left behind were
+
+242
+00:10:59,259 --> 00:11:01,360
+left to suffer with their own new
+
+243
+00:11:01,360 --> 00:11:03,999
+realities. That was my case too, all the
+
+244
+00:11:03,999 --> 00:11:05,620
+international photographers had left
+
+245
+00:11:05,620 --> 00:11:08,439
+they all had their month off to rest but
+
+246
+00:11:08,439 --> 00:11:12,069
+I was the one who had to stay behind and
+
+247
+00:11:12,069 --> 00:11:14,230
+the country that was destroyed was the
+
+248
+00:11:14,230 --> 00:11:18,069
+one I lived in. It was like the horror
+
+249
+00:11:18,069 --> 00:11:22,529
+never ended. This is the same case for
+
+250
+00:11:22,529 --> 00:11:25,839
+the Civil War and all the wars conflict,
+
+251
+00:11:25,839 --> 00:11:27,910
+clashes that happened since I was born.
+
+252
+00:11:27,910 --> 00:11:32,370
+The media leaves when those ends so
+
+253
+00:11:32,370 --> 00:11:35,439
+through my photographs I try to tell the
+
+254
+00:11:35,439 --> 00:11:38,110
+stories of people who are left behind,
+
+255
+00:11:38,110 --> 00:11:41,050
+those whose stories did not specifically
+
+256
+00:11:41,050 --> 00:11:45,730
+interest the mainstream media. The issue
+
+257
+00:11:45,730 --> 00:11:47,290
+of the missing and kidnapped
+
+258
+00:11:47,290 --> 00:11:50,709
+haven't been covered much lately so in my
+
+259
+00:11:50,709 --> 00:11:53,139
+project I wanted to dig deeper in the
+
+260
+00:11:53,139 --> 00:11:58,400
+story.
+
+261
+00:11:58,400 --> 00:12:04,640
+I met Ida and Leda Jada at the tents
+
+262
+00:12:04,640 --> 00:12:07,279
+during a gathering for Odette Salem? who
+
+263
+00:12:07,279 --> 00:12:10,670
+was killed when a car hit her. But that
+
+264
+00:12:10,670 --> 00:12:13,130
+was the mother of two young men and his
+
+265
+00:12:13,130 --> 00:12:16,580
+sister. Her son and her daughter were
+
+266
+00:12:16,580 --> 00:12:21,260
+kidnapped in the 80s. The families were
+
+267
+00:12:21,260 --> 00:12:24,170
+all devastated, it was yet another mother
+
+268
+00:12:24,170 --> 00:12:26,420
+who had died before receiving any
+
+269
+00:12:26,420 --> 00:12:33,600
+information on the fate of her children.
+
+270
+00:12:37,300 --> 00:12:40,310
+The day of the funeral her sister allowed us to
+
+271
+00:12:40,310 --> 00:12:43,880
+visit Odette's home for a few minutes. As I
+
+272
+00:12:43,880 --> 00:12:46,580
+went from one room to another, her home
+
+273
+00:12:46,580 --> 00:12:48,440
+looked as if it was untouched for
+
+274
+00:12:48,440 --> 00:12:52,029
+decades. Inside her daughter's closet
+
+275
+00:12:52,029 --> 00:12:55,460
+hang a life-sized poster of a male model,
+
+276
+00:12:55,460 --> 00:12:58,910
+on the bottom of the closet next to shoe
+
+277
+00:12:58,910 --> 00:13:04,400
+boxes lay some old dolls and on the wall
+
+278
+00:13:04,400 --> 00:13:07,010
+was hanging a black-and-white poster of
+
+279
+00:13:07,010 --> 00:13:12,050
+the Eagles. Those are items that people
+
+280
+00:13:12,050 --> 00:13:15,890
+throw away daily while they have no
+
+281
+00:13:15,890 --> 00:13:19,040
+value for us they act as one of the main
+
+282
+00:13:19,040 --> 00:13:21,230
+evidence for the one-time presence of
+
+283
+00:13:21,230 --> 00:13:25,670
+the missing person. The photographs of
+
+284
+00:13:25,670 --> 00:13:28,310
+the belongings gave much more depth to
+
+285
+00:13:28,310 --> 00:13:36,830
+the project. Three years later in 2012,
+
+286
+00:13:36,830 --> 00:13:39,680
+I called Lina to ask her if she and her
+
+287
+00:13:39,680 --> 00:13:41,330
+mother would allow me to take their
+
+288
+00:13:41,330 --> 00:13:44,860
+photograph and tell their story.
+
+289
+00:13:44,860 --> 00:13:48,440
+Normally, with a journalist, I am a bit reserved
+
+290
+00:13:48,460 --> 00:13:52,640
+I don't talk much. But with Dalia, because I felt that she is
+
+291
+00:13:52,640 --> 00:13:56,460
+just like us, and with our friends
+
+292
+00:13:56,460 --> 00:13:59,680
+we started chatting with her and did not feel that there is a barrier.
+
+293
+00:13:59,680 --> 00:14:03,120
+She is reasonable, not the type that will communicate our message inaccurately.
+
+294
+00:14:03,120 --> 00:14:06,800
+Because some people just want to get the soop
+
+295
+00:14:06,800 --> 00:14:09,580
+but with Dalia, no, I didn't feel she is like that.
+
+296
+00:14:09,620 --> 00:14:12,400
+But then after years and years have gone by
+
+297
+00:14:12,400 --> 00:14:16,359
+We felt that the media stopped doing anything.
+
+298
+00:14:16,359 --> 00:14:20,919
+It felt like we are just filling pages in newspapers.
+
+299
+00:14:20,920 --> 00:14:23,620
+No one is listening to us and no one is doing anything
+
+300
+00:14:23,620 --> 00:14:27,180
+Not all media is the same. Some do damage with their news
+
+301
+00:14:27,300 --> 00:14:30,340
+and some help you
+
+302
+00:14:30,440 --> 00:14:35,400
+and some just wait to get the scoop
+
+303
+00:14:35,560 --> 00:14:40,420
+but we are interested in honest journalism because our issue is a humanitarian one.
+
+304
+00:14:40,560 --> 00:14:44,820
+But after a few years there are no more scoops
+
+305
+00:14:44,940 --> 00:14:47,880
+The scoop was just at the beginning
+
+306
+00:14:47,880 --> 00:14:51,600
+then they need to start doing things
+
+307
+00:14:51,600 --> 00:14:55,060
+I don't know but we didn't feel that
+
+308
+00:14:55,180 --> 00:14:57,660
+they wrote a lot in the newspapers.
+
+309
+00:14:57,660 --> 00:15:01,140
+Everyone writes and that's it
+
+310
+00:15:01,860 --> 00:15:05,940
+try to tell the stories of people who
+
+311
+00:15:05,949 --> 00:15:08,499
+are left behind those who stories did
+
+312
+00:15:08,499 --> 00:15:10,839
+not specifically interest the mainstream
+
+313
+00:15:10,839 --> 00:15:14,589
+media. The issue of the missing and
+
+314
+00:15:14,589 --> 00:15:17,109
+kidnapped haven't been covered much lately.
+
+315
+00:15:17,109 --> 00:15:20,709
+So in my project I wanted to dig deeper
+
+316
+00:15:20,709 --> 00:15:23,919
+in the story - to learn more about the
+
+317
+00:15:23,919 --> 00:15:25,809
+different narratives behind the missing
+
+318
+00:15:25,809 --> 00:15:28,389
+and the kidnapped. At the beginning I
+
+319
+00:15:28,389 --> 00:15:30,459
+photographed portraits for example of
+
+320
+00:15:30,459 --> 00:15:32,289
+the families, then I learned about the
+
+321
+00:15:32,289 --> 00:15:32,949
+belongings
+
+322
+00:15:32,949 --> 00:15:34,929
+they kept of the victims. With each
+
+323
+00:15:34,929 --> 00:15:37,359
+family a different story the same pain
+
+324
+00:15:37,359 --> 00:15:39,850
+of course but a different story and
+
+325
+00:15:39,850 --> 00:15:42,999
+details. After a month or two I got in
+
+326
+00:15:42,999 --> 00:15:44,889
+touch with Benjamin Chesterton from Duck
+
+327
+00:15:44,889 --> 00:15:45,809
+rabbit.
+
+328
+00:15:45,809 --> 00:15:49,209
+We emailed back and forth and he was
+
+329
+00:15:49,209 --> 00:15:52,920
+interested in my way of photographing.
+
+330
+00:15:52,920 --> 00:15:54,900
+I told him about the project of the
+
+331
+00:15:54,900 --> 00:15:56,820
+missing and few months later he decided
+
+332
+00:15:56,820 --> 00:15:58,560
+to come to Beirut and work with me on
+
+333
+00:15:58,560 --> 00:16:04,070
+that project for the BBC. For three days
+
+334
+00:16:04,070 --> 00:16:07,380
+Benjamin and I met mothers of victims of
+
+335
+00:16:07,380 --> 00:16:09,320
+enforced disappearances.
+
+336
+00:16:09,320 --> 00:16:15,000
+We met with NGO people MPs, ex-militia
+
+337
+00:16:15,000 --> 00:16:17,850
+members, women telling about the last
+
+338
+00:16:17,850 --> 00:16:20,010
+time they saw their children, their
+
+339
+00:16:20,010 --> 00:16:23,040
+husbands. They talked about their
+
+340
+00:16:23,040 --> 00:16:25,170
+continuous struggle and their only wish
+
+341
+00:16:25,170 --> 00:16:28,820
+to know the fate of their loved ones.
+
+342
+00:16:30,770 --> 00:16:34,050
+Mostly indicated?? with the families were
+
+343
+00:16:34,050 --> 00:16:37,250
+conducted in their mother tongue and
+
+344
+00:16:37,250 --> 00:16:39,780
+obviously Dalia would conduct those
+
+345
+00:16:39,780 --> 00:16:41,930
+interviews and I would assist with
+
+346
+00:16:41,930 --> 00:16:47,160
+really helping her to shape them. In a
+
+347
+00:16:47,160 --> 00:16:49,290
+sense in that situations it's hardest for
+
+348
+00:16:49,290 --> 00:16:51,060
+her because she's got to bring a
+
+349
+00:16:51,060 --> 00:16:53,100
+stranger into a situation, is very
+
+350
+00:16:53,100 --> 00:16:55,920
+painful for those women and if you read
+
+351
+00:16:55,920 --> 00:16:58,260
+the interviews that she conducted with
+
+352
+00:16:58,260 --> 00:17:01,110
+them for this project, they talked about
+
+353
+00:17:01,110 --> 00:17:04,440
+each time how the wind is opened up and
+
+354
+00:17:04,440 --> 00:17:07,890
+that is an extremely difficult thing for
+
+355
+00:17:07,890 --> 00:17:10,770
+anybody to do repeatedly in front of
+
+356
+00:17:10,770 --> 00:17:13,880
+journalists or anyone.
+
+357
+00:17:27,560 --> 00:17:31,070
+Aida's husband Kamal was kidnapped in
+
+358
+00:17:31,070 --> 00:17:34,460
+1985 along with his nephew Simran as
+
+359
+00:17:34,460 --> 00:17:37,420
+they were coming back from their work.
+
+360
+00:17:37,420 --> 00:17:42,210
+They never heard of them again. So along
+
+361
+00:17:42,210 --> 00:17:44,220
+with a man the mother of my friend I
+
+362
+00:17:44,220 --> 00:17:47,430
+visited them at home. Aidah refused to
+
+363
+00:17:47,430 --> 00:17:48,270
+be photographed
+
+364
+00:17:48,270 --> 00:17:53,100
+even after Aman insisted. I looked for
+
+365
+00:17:53,100 --> 00:17:54,870
+the best place to take the photograph of
+
+366
+00:17:54,870 --> 00:18:02,400
+Lena. There were two chairs that were
+
+367
+00:18:02,400 --> 00:18:04,920
+placed on each side of a small table and
+
+368
+00:18:04,920 --> 00:18:07,710
+on the wall behind them a painting was
+
+369
+00:18:07,710 --> 00:18:11,700
+hanging. Aida brought a framed portrait
+
+370
+00:18:11,700 --> 00:18:14,460
+of her husband from the 80s and placed
+
+371
+00:18:14,460 --> 00:18:15,480
+it on the table
+
+372
+00:18:15,480 --> 00:18:17,760
+along with his pipe.
+
+373
+00:18:17,940 --> 00:18:21,480
+I said I do not want to be photographed, initially.
+
+374
+00:18:21,600 --> 00:18:23,820
+When I brought Kamal's picture and put it
+
+375
+00:18:23,820 --> 00:18:26,490
+it wasn't there then, Kamal's picture
+
+376
+00:18:26,490 --> 00:18:30,960
+and I put the pipe that Kamal used to smoke.
+
+377
+00:18:31,000 --> 00:18:37,400
+He liked to smoke and I liked the smell of the ... pipe,
+
+378
+00:18:37,400 --> 00:18:40,400
+the tobacco for the pipe.
+
+379
+00:18:41,179 --> 00:18:47,009
+As I moved the sofa facing the two seats
+
+380
+00:18:47,009 --> 00:18:48,929
+and stood behind it to have more space
+
+381
+00:18:48,929 --> 00:18:51,840
+in distance, Aida
+
+382
+00:18:51,840 --> 00:18:54,330
+suddenly sat on the seat and told me to
+
+383
+00:18:54,330 --> 00:19:04,080
+take the photograph. We were all shocked
+
+384
+00:19:04,080 --> 00:19:07,320
+Aman, Lena and myself. She had resisted
+
+385
+00:19:07,320 --> 00:19:09,419
+being photographed for over an hour
+
+386
+00:19:09,419 --> 00:19:12,629
+while we were having tea earlier so I
+
+387
+00:19:12,629 --> 00:19:16,049
+just clicked two frames and then her
+
+388
+00:19:16,049 --> 00:19:18,559
+daughter sat for the portrait after her.
+
+389
+00:19:18,559 --> 00:19:20,669
+It is what I love about this image there is
+
+390
+00:19:20,669 --> 00:19:23,100
+a huge amount of respect. Dalia is not
+
+391
+00:19:23,100 --> 00:19:26,960
+trying, she's not trying too hard and
+
+392
+00:19:26,960 --> 00:19:31,710
+it's it's subtle and it's poetic, so
+
+393
+00:19:31,710 --> 00:19:33,899
+talked about the idea of beauty she does
+
+394
+00:19:33,899 --> 00:19:35,759
+and it's a beautiful image it took thoughtful
+
+395
+00:19:35,759 --> 00:19:38,090
+image.
+
+396
+00:19:50,039 --> 00:19:52,629
+So anyway when I developed the films and
+
+397
+00:19:52,629 --> 00:19:54,759
+scanned them, I sent Aida's photographs to
+
+398
+00:19:54,759 --> 00:19:58,479
+the jedis?? by email. Both of them thought
+
+399
+00:19:58,479 --> 00:20:02,909
+that the photograph looked very empty.
+
+400
+00:20:02,909 --> 00:20:06,639
+Amal and her daughter on the other side
+
+401
+00:20:06,639 --> 00:20:09,039
+thought it was beautiful and represented
+
+402
+00:20:09,039 --> 00:20:12,549
+her situation and the emptiness in her
+
+403
+00:20:12,549 --> 00:20:17,200
+life. I explained by email also that this
+
+404
+00:20:17,200 --> 00:20:19,419
+was exactly what I was aiming at, the
+
+405
+00:20:19,419 --> 00:20:21,039
+empty chair that was supposed to be
+
+406
+00:20:21,039 --> 00:20:24,129
+occupied by the husband had she not been
+
+407
+00:20:24,129 --> 00:20:27,669
+kidnapped. Instead a photograph of him
+
+408
+00:20:27,669 --> 00:20:30,580
+from the 80s sitting on the table as
+
+409
+00:20:30,580 --> 00:20:33,879
+if time falls for him after he was
+
+410
+00:20:33,879 --> 00:20:41,259
+kidnapped. In the photograph he's smiling
+
+411
+00:20:41,259 --> 00:20:45,179
+when life was better for the family and
+
+412
+00:20:45,179 --> 00:20:49,179
+by coincidence he was looking at his
+
+413
+00:20:49,179 --> 00:20:49,960
+wife Heida
+
+414
+00:20:49,960 --> 00:20:53,259
+who has aged and was looking at me with
+
+415
+00:20:53,260 --> 00:20:57,400
+sad eyes thirty years after his kidnapping
+
+416
+00:20:58,000 --> 00:21:03,960
+I felt that it was obvious that the house does't have
+
+417
+00:21:04,080 --> 00:21:07,480
+life, you know, the picture.
+
+418
+00:21:07,480 --> 00:21:13,120
+You see what I mean. It's supposed to be Kamal sitting next to me and I am sitting like that
+
+419
+00:21:13,280 --> 00:21:17,940
+looking at the camera, you see what I mean.
+
+420
+00:21:17,940 --> 00:21:20,500
+I didn't feel
+
+421
+00:21:20,520 --> 00:21:28,040
+I don't know how to say it.
+I didn't feel that it has....[life].. yes.
+
+422
+00:21:28,220 --> 00:21:32,540
+There is the empty chair. We didn't
+
+423
+00:21:32,560 --> 00:21:34,680
+consider it as this chair
+
+424
+00:21:34,680 --> 00:21:38,560
+is for the missing person.
+For Kamal
+
+425
+00:21:38,560 --> 00:21:40,580
+Just part of the decoration.
+
+426
+00:21:40,580 --> 00:21:43,840
+But they took notice of this.
+
+427
+00:21:43,980 --> 00:21:47,780
+The empty wall as well.
+
+428
+00:21:47,780 --> 00:21:52,580
+They look at the picture differently from how we look at it as if you are flipping the page.
+
+429
+00:21:52,940 --> 00:21:57,140
+They look at where the eyes are looking
+
+430
+00:21:57,140 --> 00:22:01,840
+The picture, the portrait on the table.
+
+431
+00:22:01,840 --> 00:22:05,340
+The eyes and everything
+
+432
+00:22:05,340 --> 00:22:07,460
+We do not look at it like that. Maybe
+
+433
+00:22:07,560 --> 00:22:10,500
+because we are living it. Ok it will just go by
+
+434
+00:22:10,500 --> 00:22:14,100
+Dalia took a very nice picture becuase
+
+435
+00:22:14,100 --> 00:22:18,800
+You can feel that the picture reflects on all her emotions
+
+436
+00:22:18,840 --> 00:22:23,980
+For a number of year. Her feelings are with the view of the house and the ... because it is missing something
+
+437
+00:22:23,980 --> 00:22:28,400
+Her life in the house. 
+Dalia took a good picture because
+
+438
+00:22:28,420 --> 00:22:30,990
+She captured the idea
+
+439
+00:22:30,990 --> 00:22:33,820
+So there's nothing to be pitied there, Dalia
+
+440
+00:22:33,820 --> 00:22:36,340
+is a strength and a defiance and an
+
+441
+00:22:36,340 --> 00:22:39,220
+anger mixed with a little bit of hope
+
+442
+00:22:39,220 --> 00:22:46,290
+that each day is getting stuffed out.
+
+443
+00:22:46,290 --> 00:22:48,240
+So it's always like a privilege and a
+
+444
+00:22:48,240 --> 00:22:52,020
+pleasure to be in such a place as a
+
+445
+00:22:52,020 --> 00:22:54,630
+welcome guest very much as a welcome
+
+446
+00:22:54,630 --> 00:22:57,660
+guest, but professionally you're thinking
+
+447
+00:22:57,660 --> 00:23:02,640
+what do I need and really that welcome
+
+448
+00:23:02,640 --> 00:23:06,480
+and that trust it's only worth it for
+
+449
+00:23:06,480 --> 00:23:09,720
+them if you do a good job, if you tell
+
+450
+00:23:09,720 --> 00:23:12,300
+their story properly. It's only worth the
+
+451
+00:23:12,300 --> 00:23:14,460
+pain that they have to go through when
+
+452
+00:23:14,460 --> 00:23:17,080
+they open themselves up if you meet that
+
+453
+00:23:17,080 --> 00:23:21,000
+with a professionalism and a determination to get it right.
+
+454
+00:23:21,160 --> 00:23:25,540
+You leave the person at ease when you take the picture
+
+455
+00:23:25,720 --> 00:23:28,640
+Can you please repeat that as I was talking as well
+
+456
+00:23:28,680 --> 00:23:32,300
+but if you don't want to say anything don't worry, but if you do..
+
+457
+00:23:32,300 --> 00:23:35,320
+What was the question?
+
+458
+00:23:35,320 --> 00:23:41,360
+You get the person thinking whether she wants to be photographed or not. Yes
+
+459
+00:23:41,360 --> 00:23:45,500
+Then one gets excited and sits at the chair to be photographed.
+
+460
+00:23:45,500 --> 00:23:52,520
+She knows how to get people on board.
+
+461
+00:23:52,530 --> 00:23:55,350
+that taking the time to get to know
+
+462
+00:23:55,350 --> 00:23:58,050
+people, going back again and again and
+
+463
+00:23:58,050 --> 00:23:59,850
+again and showing that we care about
+
+464
+00:23:59,850 --> 00:24:02,550
+them and their problems and that we're
+
+465
+00:24:02,550 --> 00:24:04,800
+not only here to photograph them and
+
+466
+00:24:04,800 --> 00:24:07,590
+leave but that we are really trying to
+
+467
+00:24:07,590 --> 00:24:10,470
+make a change and then their cause has
+
+468
+00:24:10,470 --> 00:24:14,760
+become ours. This makes people open up
+
+469
+00:24:14,760 --> 00:24:16,700
+and trust us and let us into their life.
+
+470
+00:24:16,700 --> 00:24:19,200
+The family tell the stories of the
+
+471
+00:24:19,200 --> 00:24:21,660
+missing loved ones, they show their
+
+472
+00:24:21,660 --> 00:24:24,450
+belongings that they had guarded for
+
+473
+00:24:24,450 --> 00:24:27,480
+decades, they share all the details and
+
+474
+00:24:27,480 --> 00:24:29,280
+evidence they had collected throughout
+
+475
+00:24:29,280 --> 00:24:32,730
+the years. I had understood the value of
+
+476
+00:24:32,730 --> 00:24:35,280
+those belongings and photograph them as
+
+477
+00:24:35,280 --> 00:24:40,200
+precious relics. Each item alone. I was
+
+478
+00:24:40,200 --> 00:24:42,180
+thinking about what I wanted to say
+
+479
+00:24:42,180 --> 00:24:44,370
+particularly in relation to you as the
+
+480
+00:24:44,370 --> 00:24:47,790
+audience looking at a photo and how you
+
+481
+00:24:47,790 --> 00:24:51,120
+might respond to that photo and the
+
+482
+00:24:51,120 --> 00:24:53,190
+thing that I wanted to tell you was that
+
+483
+00:24:53,190 --> 00:24:56,669
+the danger of a photo is that it holds
+
+484
+00:24:56,669 --> 00:24:59,190
+someone in time, in moment, it kind of
+
+485
+00:24:59,190 --> 00:25:02,909
+says this is this is it, right, and life
+
+486
+00:25:02,909 --> 00:25:04,710
+is not like that because it's much more
+
+487
+00:25:04,710 --> 00:25:08,249
+complex and sometimes we need Dalia to
+
+488
+00:25:08,249 --> 00:25:10,139
+have sat down with the women and just
+
+489
+00:25:10,139 --> 00:25:12,749
+hear what they think and it kind of
+
+490
+00:25:12,749 --> 00:25:14,309
+takes away a lot of the formality of
+
+491
+00:25:14,309 --> 00:25:16,440
+what you're seeing and your feelings
+
+492
+00:25:16,440 --> 00:25:19,710
+about what you're seeing in fact what I
+
+493
+00:25:19,710 --> 00:25:21,690
+would say is her interview with the
+
+494
+00:25:21,690 --> 00:25:24,059
+women in many ways is actually more
+
+495
+00:25:24,059 --> 00:25:26,549
+humanizing than the photograph itself
+
+496
+00:25:26,549 --> 00:25:29,669
+and that's something really interesting
+
+497
+00:25:29,669 --> 00:25:39,720
+to reflect on. There is a violence in
+
+498
+00:25:39,720 --> 00:25:41,700
+photography that on one level, perhaps
+
+499
+00:25:41,700 --> 00:25:43,590
+violence is the wrong word, but there's a
+
+500
+00:25:43,590 --> 00:25:45,600
+tension when a person brings a camera or
+
+501
+00:25:45,600 --> 00:25:47,070
+a smartphone up to their eye there's
+
+502
+00:25:47,070 --> 00:25:49,200
+immediately the photographer and the
+
+503
+00:25:49,200 --> 00:25:50,879
+photographed and there will be the
+
+504
+00:25:50,879 --> 00:25:52,619
+audience or the viewer as well at some
+
+505
+00:25:52,619 --> 00:25:54,809
+point and the most powerful stakeholder
+
+506
+00:25:54,809 --> 00:25:56,489
+in those three-way relationships is
+
+507
+00:25:56,489 --> 00:26:00,480
+almost never the subject. This is why this
+
+508
+00:26:00,480 --> 00:26:02,070
+class interview are setup the way they
+
+509
+00:26:02,070 --> 00:26:03,539
+are between the photographer our
+
+510
+00:26:03,539 --> 00:26:05,940
+subjects and the audience is to explore
+
+511
+00:26:05,940 --> 00:26:08,279
+that tension and then it for us to
+
+512
+00:26:08,279 --> 00:26:09,869
+reflect on our relationships with the
+
+513
+00:26:09,869 --> 00:26:11,369
+world, we'll bring the camera up to our
+
+514
+00:26:11,369 --> 00:26:13,200
+eye and make the world our subject and
+
+515
+00:26:13,200 --> 00:26:15,749
+listen to Dalia's conversation one of
+
+516
+00:26:15,749 --> 00:26:17,239
+the first things that's apparent is that
+
+517
+00:26:17,239 --> 00:26:19,230
+telling someone else's story is a
+
+518
+00:26:19,230 --> 00:26:21,600
+speculative endeavor right, I mean, Dalia
+
+519
+00:26:21,600 --> 00:26:23,309
+and Benjamin asked permission of their
+
+520
+00:26:23,309 --> 00:26:24,809
+subjects in the full knowledge that they
+
+521
+00:26:24,809 --> 00:26:27,289
+might well and do sometimes say no.
+
+522
+00:26:27,289 --> 00:26:29,429
+Dalia talks to people agreeing to have
+
+523
+00:26:29,429 --> 00:26:31,289
+their photographs made years after she
+
+524
+00:26:31,289 --> 00:26:33,119
+asked and we begin to get a sense of the
+
+525
+00:26:33,119 --> 00:26:34,499
+negotiation that has to take place
+
+526
+00:26:34,499 --> 00:26:36,450
+between the subject and the photographer
+
+527
+00:26:36,450 --> 00:26:37,799
+and the importance of trust in that
+
+528
+00:26:37,799 --> 00:26:40,109
+relationship. I said in the introduction
+
+529
+00:26:40,109 --> 00:26:42,690
+that what Dalia's work will come to mean
+
+530
+00:26:42,690 --> 00:26:45,029
+is interesting, but that applies to all
+
+531
+00:26:45,029 --> 00:26:47,070
+our images it's difficult if not
+
+532
+00:26:47,070 --> 00:26:48,480
+impossible for us to know what our
+
+533
+00:26:48,480 --> 00:26:50,159
+images will come to mean in future
+
+534
+00:26:50,159 --> 00:26:52,559
+contexts, what their values might be and
+
+535
+00:26:52,559 --> 00:26:55,710
+to whom, which is problematic when we've
+
+536
+00:26:55,710 --> 00:26:57,299
+negotiated or built a trust relationship
+
+537
+00:26:57,299 --> 00:26:59,669
+with our subjects, I mean what is it that
+
+538
+00:26:59,669 --> 00:27:01,230
+we promised what is their understanding
+
+539
+00:27:01,230 --> 00:27:03,149
+and what exactly do they give their
+
+540
+00:27:03,149 --> 00:27:07,019
+consent for? The subject has to agree to
+
+541
+00:27:07,019 --> 00:27:09,239
+be vulnerable and not just once not just
+
+542
+00:27:09,239 --> 00:27:10,999
+at the point of the shutter release.
+
+543
+00:27:10,999 --> 00:27:12,529
+The photograph may never be seen within
+
+544
+00:27:12,529 --> 00:27:14,570
+the context it was actually taken, the
+
+545
+00:27:14,570 --> 00:27:16,070
+chances are it will live in many
+
+546
+00:27:16,070 --> 00:27:18,109
+different contexts even simultaneously
+
+547
+00:27:18,109 --> 00:27:20,389
+and its meaning might well shift with
+
+548
+00:27:20,389 --> 00:27:21,769
+each audience in each time the subject
+
+549
+00:27:21,769 --> 00:27:24,859
+will be vulnerable again. The prison
+
+550
+00:27:24,859 --> 00:27:26,840
+photography blog founder Pete Brooke who
+
+551
+00:27:26,840 --> 00:27:28,039
+you'll be hearing from in the next
+
+552
+00:27:28,039 --> 00:27:30,440
+session says we all have a right to
+
+553
+00:27:30,440 --> 00:27:32,539
+carry a camera but that doesn't mean we
+
+554
+00:27:32,539 --> 00:27:34,749
+have a right to photograph all the people.
+
+555
+00:27:34,749 --> 00:27:37,399
+Now is the time here in session 1 for
+
+556
+00:27:37,399 --> 00:27:39,169
+you to put down your own moral markers
+
+557
+00:27:39,169 --> 00:27:41,029
+take a metacognitive view of your
+
+558
+00:27:41,029 --> 00:27:42,350
+practice, think this through:
+
+559
+00:27:42,350 --> 00:27:45,169
+what is your code of ethics? Make your
+
+560
+00:27:45,169 --> 00:27:47,330
+notes in the platform, join the
+
+561
+00:27:47,330 --> 00:27:49,730
+conversation. In the next session we'll
+
+562
+00:27:49,730 --> 00:27:51,409
+be hearing from Isadora Kasofsky and
+
+563
+00:27:51,409 --> 00:27:53,629
+her subjects Vinnie and Dave. Pete Brooke
+
+564
+00:27:53,629 --> 00:27:55,999
+as I said blog founder of prison
+
+565
+00:27:55,999 --> 00:27:57,440
+photography is going to be providing
+
+566
+00:27:57,440 --> 00:28:00,200
+some historical context and one of the
+
+567
+00:28:00,200 --> 00:28:02,330
+cofounders of Everyday Africa Peter
+
+568
+00:28:02,330 --> 00:28:04,340
+DiCampo is going to be providing the
+
+569
+00:28:04,340 --> 00:28:07,029
+audience perspective.
+
