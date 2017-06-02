@@ -16,7 +16,7 @@ Almost every year since has seen a contest and a winning image. Some of the phot
 Each of the images below are from the World Press Photo Foundation Archive and have been reimagined as Four Corners Images. We have used the Fourcorners template to add more contextual information to these historical frames but don't feel limited by such a literal application when you come to make your Four Corners images.
 
 
-<img src="{{site.baseurl}}/course/content/media/week1-picture1.jpg" data-4c="885126f7-02a8-701f-1c12-7e38205475a5" />
+<img src="https://testclass.connectedacademy.io/course/content/media/week1-picture1.jpg" data-4c="885126f7-02a8-701f-1c12-7e38205475a5" />
 
 **Don McCullin, 1964**
 
@@ -27,7 +27,7 @@ _Key words: grief, civil war, family, loss, trauma, absence, testimony_
 {"context":[{"credit":"Don McCullin","src":"http://www.tate.org.uk/art/images/work/AR/AR01183_10.jpg"}],"links":[{"title":"1964: Deaths follow Cyprus truce breach","url":"http://news.bbc.co.uk/onthisday/hi/dates/stories/february/12/newsid_2745000/2745245.stm"}],"backStory":{"text":"The years following Cyprus's independence from British rule in 1960 saw constitutional wrangling and rising tension between the island's Turkish Cypriot and Greek Cypriot communities. This escalated into clashes between rival paramilitary factions. Greece and Turkey became increasingly embroiled in the situation. Greece sent 20,000 troops to the island, while Turkey responded to attacks on Turkish Cypriot areas with air strikes. In 1964 the United Nations sent in peacekeeping troops to support British soldiers manning the so-called \"Green Line\", set up to divide the Greek and Turkish Cypriot sectors of Nicosia.","author":"Don McCullin","magazine":"The Observer / Quick / Life","magazineUrl":"https://www.worldpressphoto.org/collection/photo/1964/world-press-photo-year/don-mccullin","date":"20-03-1964"},"creativeCommons":{"copyright":"Don McCullin © 1964","codeOfEthics":"Entrants to the World Press Photo contest must ensure their pictures provide an accurate and fair representation of the scene they witnessed so the audience is not misled.","description":"Ghaziveram, Cyprus. A Turkish woman mourns her dead husband, a victim of the Cyprus Civil War between Greek Cypriotes and Turkish Cypriotes"}}
 </script>
 
-<img src="{{site.baseurl}}/course/content/media/week1-picture5.jpg" data-4c="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620" />
+<img src="https://testclass.connectedacademy.io/course/content/media/week1-picture5.jpg" data-4c="fe6b0c75-5f40-8ea7-a3c6-0705a3ca1620" />
 
 **Françoise Demulder, 1977 (first female winner of WPP)**
 
@@ -39,7 +39,7 @@ _Lebanon civil war, war photography, massacre, killings, civilians_
 </script>
 
 
-<img src="{{site.baseurl}}/course/content/media/week1-picture2.jpg" data-4c="51d37272-832f-a854-c46d-27df1de5deb2" />
+<img src="https://testclass.connectedacademy.io/course/content/media/week1-picture2.jpg" data-4c="51d37272-832f-a854-c46d-27df1de5deb2" />
 
 **James Nachtwey, 1995**
 
@@ -54,7 +54,7 @@ The long-term consequences of war are less-documented because they do not appeal
  
 Picture 4 shows a good example of how to creatively communicate something that’s not there; the relatives of refugees on the other side of the ocean, miles away. Like Dalia, the photographer uses personal objects as evidences of the missing social bound: their phones are up in the air, screen lighted, symbolising the hope of connecting with their loved ones. Dalia uses photographs of the missings, old personal items such as cigarettes or bags to bring the viewer into the experience of loss and trauma that her subjects are going through. It is certainly a difficult and sensitive exercise which requires the trust of her subjects. As in picture 4, Dalia’s images are intensely quiet, empty and hunting. Although less straight-forward and dramatic than the war photographs showcased here, those images are powerful and moving testimonies of the lasting consequences of war. Dalia Khamissy and John Stanmeyer have both found creative and personal ways to reinforce the feeling of disappearance and therefore, bring to the front light the human consequences of war.
 
-<img src="{{site.baseurl}}/course/content/media/week1-picture3.jpg" data-4c="aa41a988-e13a-99d9-7c69-a17c3b4b4061" />
+<img src="https://testclass.connectedacademy.io/course/content/media/week1-picture3.jpg" data-4c="aa41a988-e13a-99d9-7c69-a17c3b4b4061" />
 
 **Robin Moyer, 1982**
 
@@ -67,7 +67,7 @@ _Lebanon civil war, evidence, killings, war photography, spot news, massacres_
 </script>
 
 
-<img src="{{site.baseurl}}/course/content/media/week1-picture4.jpg" data-4c="1f532292-44e3-3640-23ce-5a911a55edfa" />
+<img src="https://testclass.connectedacademy.io/course/content/media/week1-picture4.jpg" data-4c="1f532292-44e3-3640-23ce-5a911a55edfa" />
 
 **John Stanmeyer, 2014**
 
