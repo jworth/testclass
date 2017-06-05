@@ -1,5 +1,11 @@
 # How to Edit this Course
 
+## Streaming Media
+
+YouTube is used for videos - enter the video code in the extra information when editing content to include it in the class.
+
+SoundCloud is used for audio only content - use the `share` -> `embed` button and paste the code into your content.
+
 ## Course Content
 
 Located in the `content\{language}` directory. This can be configured in any way, however the advised method is using a `folder` per `class`.
@@ -23,4 +29,3 @@ This file defines which `hubs` or situated classes are happening, and their rela
 ### questions.yaml
 
 This file defines the analytics, legal releases and specific questions to be asked as part of registration and throughout the course.
-
